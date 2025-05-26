@@ -1,6 +1,7 @@
   - Projeto: Diário de Bordo
 
   - Visão Geral
+
 Este projeto implementa uma pipeline de dados baseada em camadas Bronze e Silver, utilizando o Databricks com Delta Lake. O foco foi tratar e consolidar informações de corridas de transporte urbano, segmentando por categoria da corrida e propósito, e agregando as informações por dia de referência.
 
 
