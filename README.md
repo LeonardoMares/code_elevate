@@ -18,15 +18,15 @@ Utilizar boas práticas de SQL + PySpark e manter o projeto modularizado com fun
 
  - Estrutura do Projeto:
 
-UTILS.py – Funções auxiliares reutilizáveis (transformações, joins, insert, etc).
+UTILS – Funções auxiliares reutilizáveis (transformações, joins, insert, etc).
 
-TESTES.py – Execução dos testes unitários com validações de schema, ingestão e join.
+TESTES.ipynb – Execução dos testes unitários com validações de schema, ingestão e join.
 
-MAIN (BRONZE).py – Ingestão do CSV para a camada Bronze (tabela Delta).
+MAIN (BRONZE).ipynb – Ingestão do CSV para a camada Bronze (tabela Delta).
 
-CATALOG.py – Criação da tabela final agregada (Silver).
+CATALOG.ipynb – Criação da tabela final agregada (Silver).
 
-MAIN (SILVER).py – Tratamento, transformação e consolidação dos dados.
+MAIN (SILVER).ipynb – Tratamento, transformação e consolidação dos dados.
 
 
   - Tecnologias Utilizadas:
@@ -75,7 +75,7 @@ Inserção dos dados finais na tabela Silver (info_corridas_do_dia).
 
   - Testes:
 
-Todos os módulos e etapas foram testados com pytest e asserts manuais no notebook TESTES.py.
+Todos os módulos e etapas foram testados com pytest e asserts manuais no notebook TESTES.
 Testes realizados:
 
 Teste de download do arquivo
@@ -125,15 +125,15 @@ QT_CORR_NAO_REUNI: Quantidade de corridas com o propósito declarado e diferente
 
   - Como Executar:
 
-Rode UTILS.py para configurar todas as funções
+Rode UTILS para configurar todas as funções
 
-Execute TESTES.py para verificar a integridade da pipeline
+Execute TESTES para verificar a integridade da pipeline
 
-Rode MAIN (BRONZE).py para ingestão dos dados
+Rode MAIN (BRONZE) para ingestão dos dados
 
-Execute CATALOG.py para garantir a criação da tabela final
+Execute CATALOG para garantir a criação da tabela final
 
-Rode MAIN (SILVER).py para processar e consolidar os dados
+Rode MAIN (SILVER) para processar e consolidar os dados
 
 
   - Sobre Mim
