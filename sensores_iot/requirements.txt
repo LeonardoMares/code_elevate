@@ -1,0 +1,4 @@
+kafka-python
+faker
+python-dotenv
+psycopg2-binary

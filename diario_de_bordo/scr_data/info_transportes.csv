@@ -1,0 +1,1154 @@
+﻿DATA_INICIO;DATA_FIM;CATEGORIA;LOCAL_INICIO;LOCAL_FIM;DISTANCIA;PROPOSITO
+01-01-2016 21:11;01-01-2016 21:17;Negocio;Fort Pierce;Fort Pierce;51;Alimentação
+01-02-2016 01:25;01-02-2016 01:37;Negocio;Fort Pierce;Fort Pierce;5;
+01-02-2016 20:25;01-02-2016 20:38;Negocio;Fort Pierce;Fort Pierce;48;Entregas
+01-05-2016 17:31;01-05-2016 17:45;Negocio;Fort Pierce;Fort Pierce;47;Reunião
+01-06-2016 14:42;01-06-2016 15:49;Negocio;Fort Pierce;West Palm Beach;637;Visita ao cliente
+01-06-2016 17:15;01-06-2016 17:19;Negocio;West Palm Beach;West Palm Beach;43;Alimentação
+01-06-2016 17:30;01-06-2016 17:35;Negocio;West Palm Beach;Palm Beach;71;Reunião
+01-07-2016 13:27;01-07-2016 13:33;Negocio;Cary;Cary;8;Reunião
+01-10-2016 08:05;01-10-2016 08:25;Negocio;Cary;Morrisville;83;Reunião
+01-10-2016 12:17;01-10-2016 12:44;Negocio;Jamaica;New York;165;Visita ao cliente
+01-10-2016 15:08;01-10-2016 15:51;Negocio;New York;Queens;108;Reunião
+01-10-2016 18:18;01-10-2016 18:53;Negocio;Elmhurst;New York;75;Reunião
+01-10-2016 19:12;01-10-2016 19:32;Negocio;Midtown;East Harlem;62;Reunião
+01-11-2016 11:56;01-11-2016 12:03;Negocio;Flatiron District;Midtown;16;Entregas
+01-11-2016 13:32;01-11-2016 13:46;Negocio;Midtown;Midtown East;17;Alimentação
+01-11-2016 14:30;01-11-2016 14:43;Negocio;Midtown East;Midtown;19;Alimentação
+01-12-2016 12:33;01-12-2016 12:49;Negocio;Midtown;Hudson Square;19;Alimentação
+01-12-2016 12:53;01-12-2016 13:09;Negocio;Hudson Square;Lower Manhattan;4;Alimentação
+01-12-2016 14:42;01-12-2016 14:56;Negocio;Lower Manhattan;Hudson Square;18;Entregas
+01-12-2016 15:13;01-12-2016 15:28;Negocio;Hudson Square;Hell's Kitchen;24;Visita ao cliente
+01-12-2016 15:42;01-12-2016 15:54;Negocio;Hell's Kitchen;Midtown;2;Entregas
+01-12-2016 16:02;01-12-2016 17:00;Negocio;New York;Queens County;151;Reunião
+01-13-2016 13:54;01-13-2016 14:07;Negocio;Downtown;Gulfton;112;Reunião
+01-13-2016 15:00;01-13-2016 15:28;Negocio;Gulfton;Downtown;118;Reunião
+01-13-2016 16:29;01-13-2016 17:05;Negocio;Houston;Houston;219;Visita ao cliente
+01-13-2016 21:39;01-13-2016 21:45;Negocio;Eagan Park;Jamestown Court;39;Entregas
+01-15-2016 0:41;01-15-2016 1:01;Negocio;Morrisville;Cary;8;Entregas
+01-15-2016 11:43;01-15-2016 12:03;Negocio;Cary;Durham;104;Alimentação
+01-15-2016 13:26;01-15-2016 13:44;Negocio;Durham;Cary;104;Alimentação
+01-18-2016 14:55;01-18-2016 15:06;Negocio;Cary;Cary;48;Alimentação
+01-18-2016 16:13;01-18-2016 16:24;Negocio;Farmington Woods;Whitebridge;47;Alimentação
+01-19-2016 9:09;01-19-2016 9:23;Negocio;Whitebridge;Lake Wellingborough;72;
+01-20-2016 10:36;01-20-2016 11:11;Negocio;Cary;Raleigh;171;Reunião
+01-20-2016 11:48;01-20-2016 12:19;Negocio;Fayetteville Street;Umstead;151;Reunião
+01-20-2016 13:25;01-20-2016 14:19;Negocio;Raleigh;Cary;402;Visita ao cliente
+01-21-2016 14:25;01-21-2016 14:29;Negocio;Cary;Cary;16;Entregas
+01-21-2016 14:43;01-21-2016 14:51;Negocio;Cary;Cary;24;Alimentação
+01-21-2016 16:01;01-21-2016 16:06;Negocio;Cary;Cary;1;Alimentação
+01-26-2016 10:41;01-26-2016 10:50;Negocio;Whitebridge;Hazelwood;2;Alimentação
+01-26-2016 12:33;01-26-2016 12:41;Negocio;Hazelwood;Whitebridge;23;Entregas
+01-26-2016 16:24;01-26-2016 16:32;Negocio;Whitebridge;Westpark Place;19;Entregas
+01-26-2016 17:17;01-26-2016 17:22;Negocio;Cary;Cary;14;Entregas
+01-26-2016 17:27;01-26-2016 17:29;Negocio;Cary;Cary;5;Entregas
+01-27-2016 9:24;01-27-2016 9:31;Negocio;Cary;Cary;18;Reunião
+01-27-2016 10:19;01-27-2016 10:48;Negocio;Cary;Raleigh;187;Visita ao cliente
+01-27-2016 12:34;01-27-2016 12:44;Negocio;Fairmont;Meredith Townes;34;Visita ao cliente
+01-27-2016 14:05;01-27-2016 14:13;Negocio;Raleigh;Raleigh;27;Visita ao cliente
+01-27-2016 14:46;01-27-2016 15:08;Negocio;Raleigh;Cary;129;Visita ao cliente
+01-28-2016 12:28;01-28-2016 13:00;Negocio;Cary;Raleigh;19;Parada temporária
+01-28-2016 15:11;01-28-2016 15:31;Negocio;Meredith Townes;Leesville Hollow;147;Reunião
+01-28-2016 16:21;01-28-2016 16:51;Negocio;Raleigh;Cary;157;Reunião
+01-29-2016 9:31;01-29-2016 9:45;Negocio;Cary;Cary;46;Visita ao cliente
+01-29-2016 10:56;01-29-2016 11:07;Negocio;Cary;Cary;52;Reunião
+01-29-2016 11:43;01-29-2016 12:03;Negocio;Cary;Durham;104;Reunião
+01-29-2016 13:24;01-29-2016 13:47;Negocio;Durham;Cary;101;Reunião
+01-29-2016 18:31;01-29-2016 18:52;Negocio;Cary;Apex;58;Entregas
+01-29-2016 21:21;01-29-2016 21:40;Negocio;Apex;Cary;55;Alimentação
+01-30-2016 16:21;01-30-2016 16:33;Negocio;Cary;Apex;57;Entregas
+01-30-2016 18:09;01-30-2016 18:24;Negocio;Apex;Cary;57;Visita ao cliente
+02-01-2016 10:35;02-01-2016 11:15;Negocio;Cary;Chapel Hill;194;Visita ao cliente
+02-01-2016 12:10;02-01-2016 12:43;Negocio;Chapel Hill;Cary;233;Visita ao cliente
+02-01-2016 12:56;02-01-2016 13:07;Negocio;Northwoods;Whitebridge;39;Alimentação
+02-02-2016 13:04;02-02-2016 13:23;Negocio;Whitebridge;Williamsburg Manor;83;Reunião
+02-02-2016 13:51;02-02-2016 14:06;Negocio;Cary;Cary;6;Entregas
+02-02-2016 14:38;02-02-2016 14:42;Negocio;Cary;Cary;16;Entregas
+02-04-2016 08:40;02-04-2016 09:01;Negocio;Cary;Morrisville;52;Entregas
+02-04-2016 09:37;02-04-2016 10:09;Negocio;Morrisville;Cary;97;Alimentação
+02-04-2016 10:26;02-04-2016 10:32;Negocio;Cary;Cary;16;Alimentação
+02-04-2016 15:59;02-04-2016 16:03;Negocio;Cary;Cary;11;Alimentação
+02-04-2016 16:35;02-04-2016 16:39;Negocio;Cary;Cary;16;Alimentação
+02-04-2016 18:04;02-04-2016 18:31;Negocio;Whitebridge;Macgregor Downs;9;Reunião
+02-04-2016 20:36;02-04-2016 20:55;Negocio;Cary;Cary;77;Reunião
+02-05-2016 11:47;02-05-2016 12:07;Negocio;Cary;Durham;104;Reunião
+02-05-2016 13:22;02-05-2016 13:41;Negocio;Durham;Cary;104;Reunião
+02-06-2016 16:20;02-06-2016 16:53;Negocio;Cary;Raleigh;114;Entre escritórios
+02-06-2016 18:57;02-06-2016 19:21;Negocio;Raleigh;Cary;9;Entregas
+02-06-2016 19:28;02-06-2016 19:37;Negocio;Edgehill Farms;Whitebridge;32;Alimentação
+02-07-2016 16:49;02-07-2016 17:01;Negocio;Cary;Apex;56;Entregas
+02-07-2016 18:03;02-07-2016 18:17;Negocio;Apex;Cary;57;Visita ao cliente
+02-07-2016 18:39;02-07-2016 18:53;Negocio;Cary;Morrisville;61;Parada temporária
+02-07-2016 20:22;02-07-2016 20:40;Negocio;Morrisville;Cary;61;Reunião
+02-08-2016 12:57;02-08-2016 13:08;Negocio;Whitebridge;Edgehill Farms;43;Alimentação
+02-08-2016 14:00;02-08-2016 14:10;Negocio;Edgehill Farms;Whitebridge;27;Alimentação
+02-09-2016 10:54;02-09-2016 11:07;Pessoal;Whitebridge;Northwoods;53;
+02-09-2016 11:43;02-09-2016 11:50;Pessoal;Northwoods;Tanglewood;3;
+02-09-2016 13:36;02-09-2016 13:52;Pessoal;Tanglewood;Preston;51;
+02-09-2016 13:58;02-09-2016 14:02;Pessoal;Preston;Whitebridge;15;
+02-09-2016 18:55;02-09-2016 19:11;Negocio;Cary;Morrisville;61;
+02-09-2016 20:24;02-09-2016 20:40;Negocio;Morrisville;Cary;61;Alimentação
+02-11-2016 16:28;02-11-2016 17:10;Negocio;Cary;Raleigh;173;Alimentação
+02-11-2016 17:49;02-11-2016 18:10;Negocio;Eastgate;Walnut Terrace;57;Alimentação
+02-11-2016 18:24;02-11-2016 18:46;Negocio;Raleigh;Morrisville;135;Parada temporária
+02-11-2016 20:36;02-11-2016 20:51;Negocio;Morrisville;Cary;61;Parada temporária
+02-12-2016 08:21;02-12-2016 08:42;Negocio;Cary;Durham;85;Parada temporária
+02-12-2016 10:45;02-12-2016 10:52;Negocio;Durham;Morrisville;26;Parada temporária
+02-12-2016 11:14;02-12-2016 11:35;Negocio;Morrisville;Raleigh;17;Visita ao cliente
+02-12-2016 13:02;02-12-2016 13:36;Negocio;Raleigh;Cary;18;Reunião
+02-12-2016 14:49;02-12-2016 15:06;Negocio;Cary;Morrisville;84;Reunião
+02-12-2016 15:33;02-12-2016 16:06;Negocio;Morrisville;Cary;115;Visita ao cliente
+02-13-2016 14:21;02-13-2016 14:41;Negocio;Cary;Morrisville;89;Reunião
+02-13-2016 23:45;02-13-2016 0:01;Pessoal;East Elmhurst;Jackson Heights;27;
+02-13-2016 0:50;02-13-2016 1:00;Pessoal;Jackson Heights;East Elmhurst;18;
+02-13-2016 14:07;02-13-2016 14:40;Negocio;East Elmhurst;New York;81;Reunião
+02-13-2016 14:46;02-13-2016 15:03;Negocio;Midtown;Midtown West;2;Reunião
+02-13-2016 16:35;02-13-2016 17:02;Negocio;New York;Long Island City;13;Reunião
+02-13-2016 17:06;02-13-2016 17:29;Negocio;Long Island City;Jamaica;139;Reunião
+02-16-2016 3:21;02-16-2016 4:13;Negocio;Katunayaka;Unknown Location;437;Visita ao cliente
+02-16-2016 8:29;02-16-2016 9:34;Negocio;Unknown Location;Colombo;141;
+02-16-2016 10:31;02-16-2016 10:41;Negocio;Colombo;Colombo;26;
+02-16-2016 11:32;02-16-2016 12:02;Negocio;Colombo;Colombo;45;
+02-16-2016 12:39;02-16-2016 12:42;Negocio;Colombo;Colombo;17;
+02-16-2016 13:43;02-16-2016 13:55;Negocio;Colombo;Colombo;18;Parada temporária
+02-16-2016 16:34;02-16-2016 17:10;Negocio;Colombo;Colombo;6;
+02-16-2016 17:17;02-16-2016 17:26;Negocio;Colombo;Nugegoda;11;Alimentação
+02-16-2016 17:40;02-16-2016 17:44;Negocio;Nugegoda;Unknown Location;36;Entregas
+02-17-2016 13:18;02-17-2016 14:04;Negocio;Unknown Location;Colombo;147;Parada temporária
+02-17-2016 15:17;02-17-2016 15:22;Negocio;Colombo;Colombo;17;Alimentação
+02-17-2016 15:33;02-17-2016 16:17;Negocio;Colombo;Katunayaka;214;Parada temporária
+02-17-2016 16:38;02-17-2016 16:43;Negocio;Katunayaka;Katunayaka;5;Entregas
+02-18-2016 8:19;02-18-2016 8:27;Negocio;Unknown Location;Unknown Location;235;Parada temporária
+02-18-2016 14:03;02-18-2016 14:45;Negocio;Unknown Location;Islamabad;127;Parada temporária
+02-18-2016 15:16;02-18-2016 15:31;Negocio;Islamabad;Unknown Location;6;Parada temporária
+02-18-2016 18:44;02-18-2016 18:58;Negocio;Unknown Location;Islamabad;52;Visita ao cliente
+02-18-2016 19:27;02-18-2016 20:08;Negocio;Islamabad;Unknown Location;10;Reunião
+02-19-2016 9:02;02-19-2016 9:14;Negocio;Unknown Location;Unknown Location;183;Reunião
+02-19-2016 9:21;02-19-2016 9:51;Negocio;Unknown Location;Unknown Location;112;Reunião
+02-19-2016 10:21;02-19-2016 10:48;Negocio;Unknown Location;Islamabad;76;Reunião
+02-19-2016 11:20;02-19-2016 11:26;Pessoal;Islamabad;Islamabad;15;
+02-19-2016 11:45;02-19-2016 11:50;Pessoal;Islamabad;Islamabad;1;
+02-19-2016 12:09;02-19-2016 12:27;Negocio;Islamabad;Unknown Location;73;Parada temporária
+02-19-2016 16:26;02-19-2016 16:45;Negocio;Unknown Location;Islamabad;35;
+02-19-2016 17:09;02-19-2016 17:20;Negocio;Islamabad;Islamabad;42;
+02-19-2016 20:08;02-19-2016 20:30;Pessoal;Islamabad;Unknown Location;136;
+02-19-2016 20:34;02-19-2016 20:51;Pessoal;Unknown Location;Unknown Location;25;
+02-20-2016 7:59;02-20-2016 8:32;Pessoal;Unknown Location;Islamabad;144;
+02-20-2016 10:48;02-20-2016 10:56;Pessoal;Islamabad;Islamabad;3;
+02-20-2016 11:45;02-20-2016 11:53;Pessoal;Islamabad;Islamabad;15;
+02-20-2016 12:41;02-20-2016 13:17;Negocio;Islamabad;R?walpindi;184;
+02-20-2016 14:50;02-20-2016 15:54;Negocio;R?walpindi;R?walpindi;231;Reunião
+02-20-2016 16:59;02-20-2016 17:54;Pessoal;R?walpindi;Unknown Location;165;
+02-20-2016 18:00;02-20-2016 18:03;Negocio;Unknown Location;Unknown Location;32;Entregas
+02-20-2016 19:28;02-20-2016 19:49;Negocio;Unknown Location;Unknown Location;77;Entregas
+02-21-2016 9:07;02-21-2016 9:46;Negocio;Unknown Location;Islamabad;145;
+02-21-2016 11:39;02-21-2016 11:43;Negocio;Unknown Location;Islamabad;24;Entregas
+02-21-2016 11:47;02-21-2016 12:01;Negocio;Islamabad;Islamabad;46;Entregas
+02-21-2016 12:13;02-21-2016 12:35;Negocio;Islamabad;Unknown Location;88;Alimentação
+02-21-2016 12:51;02-21-2016 13:12;Negocio;Unknown Location;Unknown Location;83;Parada temporária
+02-21-2016 13:33;02-21-2016 14:30;Negocio;Unknown Location;Unknown Location;227;Parada temporária
+02-21-2016 14:36;02-21-2016 15:03;Negocio;Unknown Location;Islamabad;13;Parada temporária
+02-21-2016 15:14;02-21-2016 15:31;Negocio;Islamabad;Noorpur Shahan;81;Parada temporária
+02-21-2016 15:36;02-21-2016 15:41;Negocio;Noorpur Shahan;Unknown Location;22;Alimentação
+02-21-2016 16:04;02-21-2016 16:32;Negocio;Unknown Location;Unknown Location;97;
+02-21-2016 23:15;02-21-2016 23:52;Negocio;Unknown Location;R?walpindi;20;Reunião
+02-22-2016 21:54;02-22-2016 22:09;Negocio;Morrisville;Cary;81;Visita ao cliente
+02-24-2016 14:30;02-24-2016 14:35;Negocio;Whitebridge;Preston;15;
+02-24-2016 15:19;02-24-2016 15:25;Negocio;Preston;Whitebridge;17;Entregas
+02-25-2016 16:27;02-25-2016 16:35;Negocio;Whitebridge;Heritage Pines;31;Entregas
+02-25-2016 16:47;02-25-2016 17:02;Negocio;Heritage Pines;Whitebridge;32;Entregas
+02-25-2016 17:16;02-25-2016 17:36;Negocio;Whitebridge;Tanglewood;6;Alimentação
+02-25-2016 18:22;02-25-2016 18:39;Negocio;Tanglewood;Whitebridge;58;Alimentação
+02-26-2016 9:06;02-26-2016 9:29;Negocio;Whitebridge;Westpark Place;63;
+02-26-2016 11:05;02-26-2016 11:11;Pessoal;Westpark Place;Whitebridge;17;
+02-26-2016 11:35;02-26-2016 11:59;Negocio;Cary;Durham;106;Reunião
+02-26-2016 13:01;02-26-2016 13:24;Negocio;Durham;Cary;99;Reunião
+02-26-2016 14:38;02-26-2016 14:46;Pessoal;Whitebridge;Westpark Place;19;
+02-26-2016 15:00;02-26-2016 15:18;Pessoal;Westpark Place;Hazelwood;42;
+02-26-2016 17:01;02-26-2016 17:12;Pessoal;Hazelwood;Whitebridge;2;
+02-28-2016 5:22;02-28-2016 5:38;Negocio;Whitebridge;Waverly Place;77;Reunião
+02-28-2016 9:26;02-28-2016 9:42;Negocio;Waverly Place;Whitebridge;68;Reunião
+02-29-2016 11:07;02-29-2016 11:14;Pessoal;Whitebridge;Westpark Place;21;
+02-29-2016 11:30;02-29-2016 11:40;Negocio;Cary;Apex;38;Reunião
+02-29-2016 12:36;02-29-2016 12:48;Negocio;Apex;Cary;56;Reunião
+02-29-2016 14:55;02-29-2016 15:03;Negocio;Whitebridge;Hazelwood;26;
+02-29-2016 16:40;02-29-2016 17:00;Negocio;Hazelwood;Whitebridge;66;Visita ao cliente
+03-01-2016 18:47;03-01-2016 19:10;Negocio;Whitebridge;Wayne Ridge;8;Alimentação
+03-01-2016 21:27;03-01-2016 21:45;Negocio;Wayne Ridge;Whitebridge;8;Reunião
+03-03-2016 09:45;03-03-2016 09:52;Pessoal;Whitebridge;Westpark Place;22;
+03-03-2016 11:04;03-03-2016 11:10;Negocio;Westpark Place;Whitebridge;23;Entregas
+03-03-2016 14:44;03-03-2016 14:58;Negocio;Whitebridge;Northwoods;52;Alimentação
+03-03-2016 15:27;03-03-2016 15:48;Negocio;Cary;Raleigh;76;Visita ao cliente
+03-03-2016 16:02;03-03-2016 16:42;Negocio;Raleigh;Cary;173;Reunião
+03-04-2016 07:47;03-04-2016 08:06;Negocio;Cary;Durham;99;Reunião
+03-04-2016 09:46;03-04-2016 10:03;Negocio;Durham;Cary;99;Visita ao cliente
+03-04-2016 11:46;03-04-2016 12:06;Negocio;Cary;Durham;104;Reunião
+03-04-2016 13:03;03-04-2016 13:25;Negocio;Durham;Cary;109;Reunião
+03-04-2016 13:40;03-04-2016 14:09;Negocio;Cary;Raleigh;157;Visita ao cliente
+03-04-2016 15:56;03-04-2016 16:08;Negocio;Raleigh;Raleigh;49;Alimentação
+03-04-2016 16:16;03-04-2016 16:22;Negocio;Fayetteville Street;Depot Historic District;8;Entregas
+03-04-2016 16:43;03-04-2016 17:12;Negocio;Raleigh;Cary;135;Reunião
+03-04-2016 19:02;03-04-2016 19:08;Negocio;Cary;Morrisville;19;Parada temporária
+03-04-2016 19:16;03-04-2016 19:25;Negocio;Morrisville;Cary;2;Alimentação
+03-05-2016 11:44;03-05-2016 11:59;Negocio;Cary;Morrisville;65;Alimentação
+03-05-2016 12:57;03-05-2016 13:12;Pessoal;Weston;Weston;42;
+03-05-2016 14:08;03-05-2016 14:18;Pessoal;Morrisville;Cary;35;
+03-05-2016 14:39;03-05-2016 15:01;Negocio;Whitebridge;Wayne Ridge;78;Alimentação
+03-05-2016 16:52;03-05-2016 17:13;Negocio;Cary;Morrisville;78;Alimentação
+03-05-2016 17:23;03-05-2016 17:34;Negocio;Morrisville;Cary;39;Alimentação
+03-07-2016 09:10;03-07-2016 09:20;Negocio;Whitebridge;Edgehill Farms;28;Entregas
+03-07-2016 09:23;03-07-2016 09:47;Negocio;Cary;Raleigh;124;Visita ao cliente
+03-07-2016 12:10;03-07-2016 12:26;Negocio;Fayetteville Street;Meredith Townes;59;Visita ao cliente
+03-07-2016 13:57;03-07-2016 14:18;Negocio;Meredith Townes;Leesville Hollow;94;Reunião
+03-07-2016 15:19;03-07-2016 15:45;Negocio;Raleigh;Cary;119;Entre escritórios
+03-08-2016 14:38;03-08-2016 14:55;Negocio;Whitebridge;Waverly Place;72;Entre escritórios
+03-08-2016 15:35;03-08-2016 16:00;Negocio;Waverly Place;Whitebridge;76;Alimentação
+03-08-2016 16:13;03-08-2016 16:25;Pessoal;Whitebridge;Whitebridge;16;
+03-10-2016 03:36;03-10-2016 03:53;Negocio;Cary;Morrisville;84;Reunião
+03-10-2016 10:08;03-10-2016 10:37;Negocio;East Austin;West University;128;Reunião
+03-10-2016 14:39;03-10-2016 14:55;Negocio;West University;South Congress;23;
+03-10-2016 16:18;03-10-2016 16:28;Negocio;South Congress;Arts District;16;
+03-11-2016 09:47;03-11-2016 09:59;Negocio;The Drag;Congress Ave District;2;Alimentação
+03-11-2016 10:29;03-11-2016 10:36;Negocio;Congress Ave District;Downtown;8;
+03-11-2016 11:57;03-11-2016 12:04;Negocio;Downtown;Red River District;12;
+03-11-2016 13:43;03-11-2016 13:51;Negocio;Red River District;Downtown;1;
+03-11-2016 19:21;03-11-2016 19:35;Negocio;South Congress;The Drag;21;
+03-12-2016 09:13;03-12-2016 09:22;Negocio;The Drag;South Congress;22;
+03-12-2016 18:27;03-12-2016 18:37;Pessoal;South Congress;The Drag;19;
+03-13-2016 9:07;03-13-2016 9:37;Negocio;The Drag;Convention Center District;57;Alimentação
+03-13-2016 18:23;03-13-2016 18:43;Negocio;South Congress;North Austin;84;Alimentação
+03-13-2016 20:07;03-13-2016 20:28;Negocio;Georgian Acres;The Drag;62;Alimentação
+03-13-2016 20:39;03-13-2016 20:58;Negocio;The Drag;North Austin;105;Alimentação
+03-13-2016 21:11;03-13-2016 21:23;Negocio;North Austin;Coxville;72;Alimentação
+03-13-2016 22:19;03-13-2016 22:39;Negocio;Coxville;The Drag;125;
+03-14-2016 8:34;03-14-2016 8:49;Negocio;The Drag;South Congress;2;Entregas
+03-14-2016 18:39;03-14-2016 18:55;Negocio;South Congress;The Drag;27;
+03-15-2016 8:45;03-15-2016 8:57;Negocio;The Drag;Convention Center District;2;Alimentação
+03-15-2016 20:48;03-15-2016 21:01;Negocio;Downtown;The Drag;28;Alimentação
+03-16-2016 11:34;03-16-2016 11:45;Negocio;The Drag;Congress Ave District;17;Alimentação
+03-16-2016 14:44;03-16-2016 14:55;Negocio;Convention Center District;West University;2;
+03-16-2016 18:43;03-16-2016 18:56;Negocio;West University;Congress Ave District;21;Alimentação
+03-17-2016 0:33;03-17-2016 0:44;Pessoal;Downtown;The Drag;17;
+03-17-2016 12:52;03-17-2016 15:11;Negocio;Austin;Katy;136;Visita ao cliente
+03-17-2016 15:16;03-17-2016 15:58;Negocio;Katy;Houston;302;Reunião
+03-17-2016 17:20;03-17-2016 18:02;Negocio;Midtown;Alief;155;Alimentação
+03-17-2016 18:47;03-17-2016 19:09;Pessoal;Houston;Houston;49;
+03-17-2016 20:57;03-17-2016 21:28;Pessoal;Houston;Houston;126;
+03-17-2016 21:48;03-17-2016 22:04;Pessoal;Sharpstown;Midtown;104;
+03-18-2016 7:15;03-18-2016 7:21;Negocio;Midtown;Midtown;11;Alimentação
+03-18-2016 8:35;03-18-2016 8:43;Negocio;Midtown;Midtown;11;Alimentação
+03-18-2016 18:24;03-18-2016 19:08;Negocio;Midtown;Sharpstown;132;Reunião
+03-18-2016 19:23;03-18-2016 19:29;Negocio;Sharpstown;Sharpstown;1;Entregas
+03-18-2016 21:01;03-18-2016 21:15;Negocio;Sharpstown;Midtown;92;Visita ao cliente
+03-19-2016 9:10;03-19-2016 9:25;Negocio;Midtown;Sharpstown;94;Alimentação
+03-19-2016 12:50;03-19-2016 13:13;Negocio;Houston;Sugar Land;12;Visita ao cliente
+03-19-2016 14:01;03-19-2016 14:57;Negocio;Sugar Land;Houston;351;Visita ao cliente
+03-19-2016 15:34;03-19-2016 16:38;Negocio;Houston;Galveston;365;Alimentação
+03-19-2016 17:17;03-19-2016 17:32;Negocio;Galveston;Port Bolivar;31;Alimentação
+03-19-2016 17:37;03-19-2016 17:47;Negocio;Port Bolivar;Port Bolivar;21;Entregas
+03-19-2016 17:52;03-19-2016 18:00;Negocio;Port Bolivar;Port Bolivar;12;
+03-19-2016 18:53;03-19-2016 19:29;Negocio;Port Bolivar;Galveston;75;Reunião
+03-19-2016 19:33;03-19-2016 20:39;Negocio;Galveston;Houston;57;Visita ao cliente
+03-20-2016 7:37;03-20-2016 7:48;Negocio;Midtown;Washington Avenue;59;Reunião
+03-20-2016 11:42;03-20-2016 11:56;Negocio;Washington Avenue;Midtown;62;Reunião
+03-20-2016 17:08;03-20-2016 17:34;Negocio;Midtown;Sharpstown;104;
+03-20-2016 18:34;03-20-2016 18:40;Pessoal;Sharpstown;Briar Meadow;12;
+03-20-2016 18:45;03-20-2016 19:06;Negocio;Briar Meadow;Midtown;96;Visita ao cliente
+03-21-2016 10:21;03-21-2016 10:26;Pessoal;Midtown;Downtown;1;
+03-21-2016 16:05;03-21-2016 16:13;Negocio;Downtown;Midtown;9;Alimentação
+03-21-2016 18:59;03-21-2016 19:15;Negocio;Midtown;Sharpstown;88;
+03-21-2016 20:18;03-21-2016 20:55;Negocio;Sharpstown;Midtown;256;Alimentação
+03-22-2016 6:17;03-22-2016 6:43;Negocio;Midtown;Greater Greenspoint;23;Alimentação
+03-22-2016 12:06;03-22-2016 12:24;Pessoal;Morrisville;Cary;81;
+03-22-2016 19:12;03-22-2016 19:25;Pessoal;Whitebridge;Whitebridge;14;
+03-23-2016 14:37;03-23-2016 14:42;Pessoal;Whitebridge;Preston;17;
+03-23-2016 14:53;03-23-2016 14:59;Pessoal;Preston;Whitebridge;16;
+03-24-2016 19:47;03-24-2016 19:54;Pessoal;Whitebridge;Westpark Place;2;
+03-24-2016 20:34;03-24-2016 20:40;Negocio;Westpark Place;Whitebridge;22;
+03-25-2016 13:24;03-25-2016 16:22;Negocio;Cary;Latta;144;Visita ao cliente
+03-25-2016 16:52;03-25-2016 22:22;Negocio;Latta;Jacksonville;3103;Visita ao cliente
+03-25-2016 22:54;03-26-2016 1:39;Negocio;Jacksonville;Kissimmee;201;Reunião
+03-26-2016 14:05;03-26-2016 14:29;Pessoal;Couples Glen;Isles of Buena Vista;67;
+03-26-2016 15:19;03-26-2016 15:49;Pessoal;Kissimmee;Orlando;88;
+03-26-2016 16:26;03-26-2016 16:30;Pessoal;Lake Reams;Lake Reams;12;
+03-27-2016 0:31;03-27-2016 0:40;Negocio;Lake Reams;Lake Reams;21;Entregas
+03-27-2016 1:11;03-27-2016 1:23;Negocio;Orlando;Kissimmee;66;Alimentação
+03-27-2016 15:31;03-27-2016 15:56;Negocio;Kissimmee;Orlando;61;Visita ao cliente
+03-27-2016 21:26;03-27-2016 21:41;Pessoal;Orlando;Orlando;69;
+03-27-2016 23:04;03-27-2016 23:18;Pessoal;Orlando;Kissimmee;73;
+03-28-2016 12:29;03-28-2016 12:42;Pessoal;Kissimmee;Orlando;36;
+03-28-2016 19:30;03-28-2016 20:23;Pessoal;Couples Glen;Vista East;272;
+03-28-2016 22:55;03-28-2016 23:26;Pessoal;Orlando;Kissimmee;257;
+03-29-2016 15:27;03-29-2016 16:11;Pessoal;Kissimmee;Orlando;136;
+03-29-2016 18:20;03-29-2016 18:39;Pessoal;Sand Lake Commons;Sky Lake;62;
+03-29-2016 20:29;03-29-2016 20:44;Pessoal;Sky Lake;Sand Lake Commons;6;
+03-29-2016 23:04;03-29-2016 23:21;Pessoal;Orlando;Kissimmee;138;
+03-30-2016 22:05;03-30-2016 22:55;Negocio;Orlando;Kissimmee;288;Alimentação
+03-31-2016 12:47;03-31-2016 13:22;Negocio;Kissimmee;Orlando;161;Parada temporária
+03-31-2016 14:37;03-31-2016 15:09;Negocio;Orlando;Kissimmee;164;Alimentação
+04-01-2016 13:43;04-01-2016 14:01;Negocio;Kissimmee;Kissimmee;11;Reunião
+04-01-2016 14:36;04-01-2016 15:24;Negocio;Kissimmee;Orlando;155;Visita ao cliente
+04-01-2016 16:01;04-01-2016 16:49;Negocio;Orlando;Kissimmee;203;Reunião
+04-01-2016 16:52;04-01-2016 16:57;Pessoal;Kissimmee;Kissimmee;7;
+04-02-2016 08:48;04-02-2016 09:04;Pessoal;Kissimmee;Kissimmee;55;
+04-02-2016 11:01;04-02-2016 11:16;Pessoal;Kissimmee;Kissimmee;51;
+04-02-2016 12:21;04-02-2016 14:47;Negocio;Kissimmee;Daytona Beach;773;Visita ao cliente
+04-02-2016 16:57;04-02-2016 18:09;Negocio;Daytona Beach;Jacksonville;805;Visita ao cliente
+04-02-2016 19:38;04-02-2016 22:36;Negocio;Jacksonville;Ridgeland;1742;Visita ao cliente
+04-02-2016 23:11;04-03-2016 01:34;Negocio;Ridgeland;Florence;144;Reunião
+04-03-2016 02:00;04-03-2016 04:16;Negocio;Florence;Cary;1593;Reunião
+04-05-2016 21:39;04-05-2016 21:55;Negocio;Whitebridge;Wayne Ridge;79;Alimentação
+04-06-2016 00:19;04-06-2016 00:39;Negocio;Wayne Ridge;Whitebridge;8;Alimentação
+04-07-2016 18:20;04-07-2016 18:39;Negocio;Cary;Morrisville;61;Alimentação
+04-07-2016 19:45;04-07-2016 20:00;Negocio;Morrisville;Cary;61;Entregas
+04-08-2016 12:30;04-08-2016 12:48;Negocio;Cary;Durham;105;Reunião
+04-08-2016 13:34;04-08-2016 13:51;Negocio;Durham;Cary;87;Alimentação
+04-08-2016 13:55;04-08-2016 14:03;Negocio;Westpark Place;Whitebridge;18;Entregas
+04-08-2016 14:43;04-08-2016 15:20;Negocio;Cary;Raleigh;191;Reunião
+04-08-2016 16:05;04-08-2016 16:47;Negocio;Raleigh;Cary;186;Reunião
+04-12-2016 09:15;04-12-2016 09:26;Negocio;Whitebridge;Edgehill Farms;28;Entregas
+04-12-2016 09:34;04-12-2016 09:53;Negocio;Cary;Raleigh;89;Reunião
+04-12-2016 10:58;04-12-2016 11:18;Negocio;Meredith;Cedar Hill;75;Visita ao cliente
+04-12-2016 12:22;04-12-2016 12:44;Negocio;Raleigh;Morrisville;159;Reunião
+04-12-2016 13:42;04-12-2016 14:01;Negocio;Morrisville;Cary;65;Alimentação
+04-14-2016 7:29;04-14-2016 8:09;Negocio;Cary;Holly Springs;153;Parada temporária
+04-14-2016 16:00;04-14-2016 16:43;Negocio;Holly Springs;Cary;137;Parada temporária
+04-15-2016 11:36;04-15-2016 12:07;Negocio;Cary;Raleigh;119;Parada temporária
+04-15-2016 12:29;04-15-2016 12:32;Negocio;Meredith Townes;Harden Place;14;Entregas
+04-15-2016 14:31;04-15-2016 15:01;Negocio;Raleigh;Cary;152;Reunião
+04-16-2016 12:59;04-16-2016 13:17;Negocio;Cary;Morrisville;6;Entregas
+04-16-2016 15:10;04-16-2016 15:26;Negocio;Morrisville;Cary;61;Alimentação
+04-19-2016 17:44;04-19-2016 18:08;Negocio;Whitebridge;Wayne Ridge;82;Alimentação
+04-19-2016 19:57;04-19-2016 20:19;Negocio;Wayne Ridge;Whitebridge;8;Alimentação
+04-22-2016 8:25;04-22-2016 9:04;Negocio;Cary;Raleigh;136;Reunião
+04-22-2016 10:10;04-22-2016 10:40;Negocio;Raleigh;Cary;225;Reunião
+04-22-2016 12:08;04-22-2016 12:28;Negocio;Cary;Durham;104;Reunião
+04-22-2016 13:02;04-22-2016 13:26;Negocio;Durham;Cary;10;Reunião
+04-23-2016 17:03;04-23-2016 17:16;Negocio;Whitebridge;Tanglewood;6;Alimentação
+04-23-2016 18:49;04-23-2016 19:05;Negocio;Tanglewood;Whitebridge;65;Alimentação
+04-24-2016 19:07;04-24-2016 19:16;Negocio;Cary;Morrisville;31;Entregas
+04-24-2016 19:46;04-24-2016 19:52;Negocio;Chessington;Chessington;19;Entregas
+04-24-2016 21:41;04-24-2016 21:50;Negocio;Morrisville;Cary;42;Entre escritórios
+04-27-2016 13:30;04-27-2016 13:40;Negocio;Whitebridge;Burtrose;49;Entre escritórios
+04-27-2016 14:13;04-27-2016 14:25;Negocio;Burtrose;Whitebridge;48;Entre escritórios
+04-28-2016 12:09;04-28-2016 12:34;Negocio;Cary;Raleigh;124;Visita ao cliente
+04-28-2016 13:30;04-28-2016 13:49;Negocio;Raleigh;Cary;328;Visita ao cliente
+04-28-2016 22:10;04-28-2016 22:28;Negocio;Morrisville;Cary;55;Visita ao cliente
+04-29-2016 11:44;04-29-2016 12:01;Negocio;Cary;Durham;99;Reunião
+04-29-2016 13:13;04-29-2016 13:34;Negocio;Durham;Cary;10;Reunião
+04-29-2016 18:46;04-29-2016 19:18;Negocio;Cary;Durham;142;Visita ao cliente
+04-29-2016 22:44;04-29-2016 23:19;Negocio;Durham;Cary;182;Reunião
+04-30-2016 18:42;04-30-2016 18:57;Negocio;Whitebridge;Waverly Place;77;Alimentação
+04-30-2016 22:16;04-30-2016 22:34;Negocio;Waverly Place;Whitebridge;68;
+05-01-2016 13:45;05-01-2016 13:53;Negocio;Whitebridge;Westpark Place;21;Alimentação
+05-01-2016 14:26;05-01-2016 14:31;Negocio;Westpark Place;Whitebridge;23;
+05-01-2016 17:33;05-01-2016 17:45;Negocio;Whitebridge;Tanglewood;62;Entre escritórios
+05-01-2016 17:54;05-01-2016 18:10;Negocio;Tanglewood;Parkway;75;Reunião
+05-01-2016 22:38;05-01-2016 22:49;Negocio;Parkway;Whitebridge;31;Entregas
+05-02-2016 14:14;05-02-2016 14:21;Negocio;Whitebridge;Westpark Place;22;Entregas
+05-02-2016 15:37;05-02-2016 15:48;Negocio;Westpark Place;Whitebridge;39;Alimentação
+05-03-2016 22:20;05-03-2016 22:28;Negocio;Morrisville;Cary;25;Alimentação
+05-04-2016 15:16;05-04-2016 15:37;Negocio;Cary;Morrisville;87;Alimentação
+05-04-2016 20:55;05-04-2016 21:14;Negocio;Mcvan;Capitol One;145;Entregas
+05-04-2016 21:30;05-04-2016 21:36;Negocio;Capitol One;University District;45;Alimentação
+05-04-2016 22:19;05-04-2016 22:27;Negocio;University District;Capitol One;5;Alimentação
+05-05-2016 21:24;05-05-2016 21:36;Negocio;Seattle;Redmond;142;Alimentação
+05-05-2016 22:34;05-05-2016 22:40;Negocio;Redmond;Bellevue;29;Entregas
+05-05-2016 23:55;05-06-2016 00:08;Negocio;Bellevue;Seattle;129;Reunião
+05-06-2016 05:47;05-06-2016 06:02;Negocio;Capitol One;Mcvan;144;Reunião
+05-06-2016 16:45;05-06-2016 16:59;Negocio;Chapel Hill;Morrisville;17;Reunião
+05-06-2016 17:18;05-06-2016 17:44;Negocio;Morrisville;Cary;79;Visita ao cliente
+05-09-2016 06:08;05-09-2016 06:25;Negocio;Cary;Morrisville;84;Visita ao cliente
+05-09-2016 14:39;05-09-2016 15:06;Negocio;San Francisco;Palo Alto;205;Entre escritórios
+05-09-2016 17:58;05-09-2016 18:26;Negocio;Palo Alto;Sunnyvale;98;Visita ao cliente
+05-09-2016 19:35;05-09-2016 19:59;Negocio;Sunnyvale;Newark;176;Visita ao cliente
+05-10-2016 09:03;05-10-2016 09:20;Negocio;Newark;Menlo Park;93;Visita ao cliente
+05-10-2016 17:19;05-10-2016 17:31;Negocio;Menlo Park;Newark;79;Visita ao cliente
+05-11-2016 08:35;05-11-2016 09:12;Negocio;Newark;San Francisco;256;Reunião
+05-11-2016 21:47;05-11-2016 22:04;Negocio;Morrisville;Cary;81;Reunião
+05-14-2016 18:35;05-14-2016 18:39;Negocio;Cary;Morrisville;31;Alimentação
+05-14-2016 23:01;05-14-2016 23:05;Negocio;Morrisville;Cary;31;Alimentação
+05-17-2016 13:15;05-17-2016 13:23;Negocio;Whitebridge;Preston;28;Entregas
+05-17-2016 13:56;05-17-2016 14:08;Negocio;Preston;Westpark Place;27;Entregas
+05-17-2016 14:34;05-17-2016 14:40;Negocio;Westpark Place;Whitebridge;19;Entregas
+05-18-2016 9:11;05-18-2016 9:41;Negocio;Cary;Morrisville;84;Visita ao cliente
+05-18-2016 13:00;05-18-2016 13:02;Negocio;Morrisville;Raleigh;76;Visita ao cliente
+05-19-2016 14:37;05-19-2016 15:01;Negocio;Old City;Parkway Museums;29;Alimentação
+05-20-2016 10:56;05-20-2016 11:07;Negocio;Old City;Hog Island;112;Reunião
+05-20-2016 15:43;05-20-2016 16:12;Negocio;Morrisville;Cary;82;Alimentação
+05-22-2016 15:39;05-22-2016 15:46;Negocio;Cary;Morrisville;3;Alimentação
+05-22-2016 18:46;05-22-2016 18:53;Negocio;Morrisville;Cary;25;Alimentação
+05-23-2016 20:19;05-23-2016 20:27;Negocio;Whitebridge;Savon Height;36;Alimentação
+05-23-2016 21:09;05-23-2016 21:21;Negocio;Savon Height;Whitebridge;36;Entregas
+05-27-2016 20:26;05-27-2016 20:30;Negocio;Whitebridge;Kildaire Farms;45;Entregas
+05-27-2016 20:47;05-27-2016 20:53;Negocio;Savon Height;Kilarney Woods;12;
+05-27-2016 22:11;05-27-2016 22:14;Negocio;Kilarney Woods;Kildaire Farms;17;Entregas
+05-28-2016 0:15;05-28-2016 0:21;Negocio;Kilarney Woods;Whitebridge;47;Entregas
+05-28-2016 12:52;05-28-2016 13:06;Negocio;Cary;Morrisville;61;Alimentação
+05-28-2016 14:35;05-28-2016 15:04;Negocio;Morrisville;Cary;113;Visita ao cliente
+05-31-2016 13:54;05-31-2016 14:41;Negocio;Cary;Raleigh;149;Reunião
+05-31-2016 16:02;05-31-2016 16:39;Negocio;Raleigh;Cary;14;Reunião
+05-31-2016 17:50;05-31-2016 17:59;Negocio;Westpark Place;Whitebridge;18;
+06-01-2016 10:19;06-01-2016 10:47;Negocio;Cary;Morrisville;67;Visita ao cliente
+06-01-2016 13:10;06-01-2016 13:39;Negocio;Morrisville;Cary;96;Reunião
+06-03-2016 11:29;06-03-2016 11:49;Negocio;Cary;Durham;104;Reunião
+06-03-2016 13:08;06-03-2016 13:38;Negocio;Durham;Cary;99;Reunião
+06-03-2016 15:31;06-03-2016 15:54;Negocio;Cary;Morrisville;6;Alimentação
+06-03-2016 18:14;06-03-2016 18:29;Negocio;Townes at Everett Crossing;Chessington;33;Entregas
+06-03-2016 18:41;06-03-2016 18:53;Negocio;Morrisville;Cary;31;Entregas
+06-03-2016 19:36;06-03-2016 19:42;Negocio;Huntington Woods;Weston;17;Entregas
+06-03-2016 22:47;06-03-2016 23:06;Negocio;Morrisville;Cary;4;Entre escritórios
+06-05-2016 14:03;06-05-2016 14:33;Negocio;Whitebridge;Savon Height;78;Visita ao cliente
+06-05-2016 15:06;06-05-2016 15:22;Negocio;Cary;Morrisville;78;Visita ao cliente
+06-05-2016 15:57;06-05-2016 16:08;Negocio;Weston;Weston;38;Alimentação
+06-05-2016 18:05;06-05-2016 18:14;Negocio;Morrisville;Cary;25;Alimentação
+06-05-2016 21:53;06-05-2016 22:05;Negocio;Cary;Durham;99;Reunião
+06-05-2016 23:52;06-06-2016 00:08;Negocio;Durham;Cary;99;Reunião
+06-06-2016 15:36;06-06-2016 15:45;Negocio;Whitebridge;Hazelwood;3;Entregas
+06-06-2016 16:16;06-06-2016 16:24;Negocio;Hazelwood;Whitebridge;24;Entregas
+06-06-2016 20:06;06-06-2016 20:20;Negocio;Cary;Apex;57;Alimentação
+06-06-2016 21:08;06-06-2016 21:37;Negocio;Apex;Cary;72;Alimentação
+06-06-2016 21:41;06-06-2016 22:00;Negocio;Cary;Durham;104;Reunião
+06-06-2016 23:34;06-06-2016 23:48;Negocio;Durham;Cary;99;Reunião
+06-07-2016 21:42;06-07-2016 22:00;Negocio;Cary;Durham;104;Reunião
+06-07-2016 23:41;06-08-2016 00:04;Negocio;Durham;Cary;99;Reunião
+06-08-2016 08:23;06-08-2016 08:53;Negocio;Cary;Morrisville;87;Alimentação
+06-08-2016 12:04;06-08-2016 13:01;Negocio;Jamaica;New York;223;Entregas
+06-08-2016 13:12;06-08-2016 13:29;Negocio;Seaport;Gramercy-Flatiron;33;Alimentação
+06-08-2016 14:31;06-08-2016 14:37;Negocio;Medical Centre;Tudor City;7;Entregas
+06-08-2016 16:55;06-08-2016 17:11;Negocio;Rose Hill;Soho;25;Alimentação
+06-08-2016 17:16;06-08-2016 17:18;Negocio;Soho;Tribeca;5;Entregas
+06-08-2016 17:59;06-08-2016 18:05;Negocio;Tribeca;Financial District;9;Entregas
+06-08-2016 20:11;06-08-2016 20:25;Negocio;Financial District;Kips Bay;48;Entregas
+06-10-2016 15:19;06-10-2016 16:28;Negocio;New York;Jamaica;163;Reunião
+06-10-2016 21:47;06-10-2016 22:04;Negocio;Cary;Durham;104;Reunião
+06-10-2016 23:53;06-11-2016 00:01;Negocio;Durham;Cary;99;Reunião
+06-11-2016 17:08;06-11-2016 17:16;Negocio;Cary;Morrisville;37;Entregas
+06-11-2016 17:34;06-11-2016 17:39;Negocio;Morrisville;Cary;46;Alimentação
+06-11-2016 17:50;06-11-2016 17:56;Negocio;Westpark Place;Whitebridge;17;
+06-11-2016 21:45;06-11-2016 22:04;Negocio;Cary;Durham;104;Reunião
+06-11-2016 23:39;06-12-2016 00:05;Negocio;Durham;Cary;99;Reunião
+06-12-2016 19:53;06-12-2016 19:56;Negocio;Cary;Morrisville;25;Alimentação
+06-12-2016 20:05;06-12-2016 20:16;Negocio;Morrisville;Cary;43;Entregas
+06-12-2016 21:58;06-12-2016 22:19;Negocio;Parkway;Whitebridge;28;Entregas
+06-13-2016 5:23;06-13-2016 5:42;Negocio;Cary;Morrisville;84;Alimentação
+06-13-2016 14:17;06-13-2016 14:46;Negocio;Oakland;Emeryville;132;Reunião
+06-13-2016 18:08;06-13-2016 18:47;Negocio;Emeryville;Berkeley;39;Alimentação
+06-13-2016 18:54;06-13-2016 19:23;Negocio;Berkeley;Oakland;51;Alimentação
+06-13-2016 20:00;06-13-2016 20:05;Negocio;Oakland;Unknown Location;52;Visita ao cliente
+05-14-2016 12:03;05-14-2016 12:21;Negocio;Emeryville;San Francisco;98;
+05-14-2016 16:09;05-14-2016 16:39;Negocio;San Francisco;Emeryville;116;Reunião
+05-14-2016 17:15;05-14-2016 17:24;Negocio;Emeryville;Oakland;51;Reunião
+05-14-2016 17:27;05-14-2016 17:57;Negocio;Downtown;Bay Farm Island;93;Entregas
+05-15-2016 1:46;05-15-2016 2:06;Negocio;Kenner;New Orleans;124;Entre escritórios
+05-15-2016 15:26;05-15-2016 15:34;Negocio;CBD;Lower Garden District;19;Entre escritórios
+05-15-2016 16:37;05-15-2016 17:02;Negocio;Lower Garden District;Lakeview;64;Visita ao cliente
+05-15-2016 17:29;05-15-2016 17:49;Pessoal;Lakeview;Storyville;55;
+05-15-2016 19:52;05-15-2016 19:58;Negocio;Storyville;Faubourg Marigny;15;Alimentação
+05-16-2016 13:36;05-16-2016 14:30;Negocio;New Orleans;Metairie;145;
+05-16-2016 14:42;05-16-2016 14:46;Negocio;Metairie;Kenner;27;
+05-16-2016 15:17;05-16-2016 15:41;Negocio;Kenner;New Orleans;15;
+05-16-2016 19:39;05-16-2016 19:56;Negocio;New Orleans;Kenner;129;
+05-16-2016 21:43;05-16-2016 21:56;Negocio;Kenner;New Orleans;136;
+05-17-2016 16:11;05-17-2016 16:44;Negocio;New Orleans;Kenner;122;
+05-18-2016 0:29;05-18-2016 0:51;Negocio;Morrisville;Cary;87;
+05-19-2016 2:39;05-19-2016 2:50;Negocio;Cary;Raleigh;6;
+05-19-2016 5:51;05-19-2016 6:00;Negocio;Raleigh;Cary;59;
+06-21-2016 15:39;06-21-2016 16:08;Negocio;Cary;Raleigh;193;
+06-21-2016 17:11;06-21-2016 18:02;Negocio;Raleigh;Cary;166;Alimentação
+06-24-2016 10:41;06-24-2016 10:57;Negocio;Whitebridge;Waverly Place;71;Alimentação
+06-24-2016 11:54;06-24-2016 12:01;Negocio;Waverly Place;Macgregor Downs;21;Alimentação
+06-24-2016 12:19;06-24-2016 12:37;Negocio;Cary;Raleigh;86;Entregas
+06-24-2016 12:50;06-24-2016 13:12;Negocio;Raleigh;Morrisville;9;Entregas
+06-24-2016 13:18;06-24-2016 13:27;Negocio;Morrisville;Cary;31;Entregas
+06-24-2016 14:01;06-24-2016 14:20;Negocio;Cary;Morrisville;84;Parada temporária
+06-24-2016 20:44;06-24-2016 21:02;Negocio;Kenner;New Orleans;128;
+06-25-2016 9:03;06-25-2016 9:12;Negocio;CBD;Bywater;45;
+06-25-2016 9:15;06-25-2016 10:08;Negocio;New Orleans;Chalmette;118;Entre escritórios
+06-25-2016 10:18;06-25-2016 10:25;Negocio;Chalmette;Arabi;11;Entregas
+06-25-2016 10:50;06-25-2016 11:18;Negocio;Arabi;Metairie;17;Alimentação
+06-25-2016 11:25;06-25-2016 11:34;Negocio;Pontchartrain Shores;Pontchartrain Shores;17;Reunião
+06-25-2016 11:53;06-25-2016 13:21;Negocio;Metairie;New Orleans;155;Reunião
+06-25-2016 19:47;06-25-2016 19:58;Negocio;Storyville;Marigny;16;
+06-25-2016 23:19;06-25-2016 23:26;Negocio;Marigny;Storyville;15;
+06-26-2016 17:43;06-26-2016 18:18;Negocio;New Orleans;Kenner;126;Reunião
+06-26-2016 18:45;06-26-2016 19:12;Negocio;Pontchartrain Shores;Pontchartrain Shores;48;
+06-26-2016 19:41;06-26-2016 19:50;Negocio;Kenner;Kenner;22;
+06-26-2016 21:14;06-26-2016 21:42;Negocio;Kenner;New Orleans;13;
+06-27-2016 7:37;06-27-2016 8:48;Negocio;New Orleans;Covington;469;
+06-27-2016 8:51;06-27-2016 9:00;Negocio;Covington;Covington;25;
+06-27-2016 9:05;06-27-2016 9:33;Negocio;Covington;Covington;86;
+06-27-2016 9:43;06-27-2016 10:08;Negocio;Covington;Covington;52;
+06-27-2016 10:22;06-27-2016 10:39;Negocio;Covington;Covington;76;
+06-27-2016 10:51;06-27-2016 10:58;Negocio;Covington;Covington;18;
+06-27-2016 11:06;06-27-2016 11:24;Negocio;Covington;Mandeville;47;
+06-27-2016 11:30;06-27-2016 11:42;Negocio;Mandeville;Mandeville;28;
+06-27-2016 12:22;06-27-2016 13:02;Negocio;Mandeville;Metairie;30;
+06-27-2016 13:56;06-27-2016 14:05;Negocio;Metairie;Kenner;44;
+06-27-2016 21:09;06-27-2016 21:19;Negocio;Jamestown Court;Jamestown Court;1;
+06-28-2016 0:48;06-28-2016 1:05;Negocio;Morrisville;Cary;82;Visita ao cliente
+06-28-2016 20:13;06-28-2016 20:33;Negocio;Cary;Durham;104;Reunião
+06-28-2016 23:34;06-28-2016 23:59;Negocio;Durham;Cary;99;Reunião
+06-28-2016 23:34;06-28-2016 23:59;Negocio;Durham;Cary;99;Reunião
+06-29-2016 8:56;06-29-2016 9:24;Negocio;Cary;Morrisville;73;
+06-29-2016 10:22;06-29-2016 10:38;Negocio;Morrisville;Cary;74;
+06-29-2016 11:49;06-29-2016 11:51;Negocio;Whitebridge;Westpark Place;16;
+06-29-2016 12:11;06-29-2016 12:16;Negocio;Westpark Place;Whitebridge;18;
+06-29-2016 20:11;06-29-2016 20:29;Negocio;Cary;Durham;104;Reunião
+06-29-2016 23:38;06-30-2016 0:00;Negocio;Durham;Cary;99;Reunião
+06-30-2016 20:09;06-30-2016 20:26;Negocio;Cary;Durham;99;Reunião
+07-01-2016 00:00;07-01-2016 00:25;Negocio;Durham;Cary;99;Reunião
+07-01-2016 09:34;07-01-2016 09:57;Negocio;Cary;Raleigh;133;Reunião
+07-01-2016 12:36;07-01-2016 13:00;Negocio;Raleigh;Cary;113;Reunião
+07-01-2016 20:06;07-01-2016 20:24;Negocio;Cary;Durham;105;Reunião
+07-01-2016 23:48;07-02-2016 00:09;Negocio;Durham;Cary;99;Reunião
+07-02-2016 20:18;07-02-2016 20:36;Negocio;Cary;Durham;101;Reunião
+07-02-2016 23:48;07-03-2016 00:12;Negocio;Durham;Cary;99;Reunião
+07-03-2016 00:28;07-03-2016 00:38;Negocio;Cary;Morrisville;31;Entregas
+07-03-2016 03:02;07-03-2016 03:08;Negocio;Morrisville;Cary;31;Entregas
+07-03-2016 20:00;07-03-2016 20:18;Negocio;Cary;Durham;99;Reunião
+07-04-2016 00:32;07-04-2016 00:47;Negocio;Durham;Cary;99;Reunião
+07-04-2016 17:31;07-04-2016 17:49;Negocio;Whitebridge;Summerwinds;88;Reunião
+07-04-2016 18:23;07-04-2016 18:49;Negocio;Summerwinds;Whitebridge;87;Parada temporária
+07-04-2016 20:00;07-04-2016 20:17;Negocio;Cary;Durham;118;Reunião
+07-05-2016 00:00;07-05-2016 00:05;Negocio;Parkwood;Parkwood;12;Entregas
+07-05-2016 00:08;07-05-2016 00:28;Negocio;Durham;Cary;99;Reunião
+07-05-2016 16:48;07-05-2016 16:52;Negocio;Whitebridge;Whitebridge;6;Entregas
+07-05-2016 20:06;07-05-2016 20:26;Negocio;Cary;Durham;99;
+07-05-2016 22:41;07-05-2016 23:02;Negocio;Durham;Morrisville;86;
+07-06-2016 00:33;07-06-2016 00:53;Negocio;Morrisville;Cary;63;Alimentação
+07-06-2016 09:06;07-06-2016 09:25;Negocio;Cary;Durham;99;Reunião
+07-06-2016 12:48;07-06-2016 13:08;Negocio;Durham;Cary;99;
+07-06-2016 20:04;07-06-2016 20:14;Negocio;Cary;Morrisville;33;Alimentação
+07-06-2016 23:46;07-06-2016 23:59;Negocio;Morrisville;Cary;31;Visita ao cliente
+07-07-2016 08:22;07-07-2016 08:50;Negocio;Cary;Morrisville;79;Parada temporária
+07-07-2016 10:27;07-07-2016 10:33;Negocio;Morrisville;Cary;89;
+07-07-2016 12:59;07-07-2016 13:35;Negocio;Kenner;New Orleans;128;
+07-08-2016 09:50;07-08-2016 10:13;Negocio;CBD;Pontchartrain Beach;77;
+07-08-2016 10:51;07-08-2016 11:12;Negocio;Pontchartrain Beach;CBD;7;
+07-08-2016 13:48;07-08-2016 14:11;Negocio;New Orleans;Metairie;125;
+07-08-2016 17:11;07-08-2016 17:30;Negocio;Kenner;New Orleans;132;
+07-09-2016 09:03;07-09-2016 09:46;Negocio;New Orleans;Kenner;13;
+07-09-2016 09:52;07-09-2016 10:06;Negocio;Kenner;Metairie;49;
+07-09-2016 10:15;07-09-2016 10:33;Negocio;Metairie;New Orleans;85;
+07-10-2016 14:10;07-10-2016 14:17;Negocio;CBD;St Thomas;13;
+07-10-2016 16:04;07-10-2016 16:15;Negocio;St Thomas;CBD;18;
+07-10-2016 18:05;07-10-2016 18:21;Negocio;New Orleans;Kenner;136;
+07-10-2016 19:51;07-10-2016 20:08;Negocio;Kenner;New Orleans;134;
+07-12-2016 16:10;07-12-2016 16:45;Negocio;New Orleans;Kenner;123;
+07-12-2016 19:21;07-12-2016 19:26;Pessoal;Kenner;Kenner;14;
+07-12-2016 23:47;07-13-2016 0:11;Pessoal;Morrisville;Cary;87;
+07-13-2016 12:39;07-13-2016 13:20;Pessoal;Cary;Morrisville;235;
+07-13-2016 13:25;07-13-2016 13:39;Pessoal;Morrisville;Morrisville;22;
+07-13-2016 13:42;07-13-2016 13:54;Pessoal;Morrisville;Cary;44;
+07-14-2016 15:51;07-14-2016 15:59;Pessoal;Cary;Morrisville;33;
+07-14-2016 16:03;07-14-2016 16:34;Negocio;Morrisville;Morrisville;118;Entregas
+07-14-2016 16:39;07-14-2016 20:05;Negocio;Morrisville;Banner Elk;1953;
+07-15-2016 11:32;07-15-2016 11:53;Pessoal;Banner Elk;Banner Elk;83;
+07-15-2016 12:09;07-15-2016 12:19;Pessoal;Banner Elk;Banner Elk;32;
+07-15-2016 12:35;07-15-2016 13:15;Pessoal;Banner Elk;Elk Park;224;
+07-15-2016 15:03;07-15-2016 15:33;Pessoal;Elk Park;Banner Elk;122;
+07-15-2016 15:40;07-15-2016 15:52;Pessoal;Banner Elk;Banner Elk;45;
+07-16-2016 13:14;07-16-2016 14:10;Pessoal;Banner Elk;Newland;281;
+07-16-2016 14:14;07-16-2016 14:30;Pessoal;Newland;Newland;38;
+07-16-2016 15:29;07-16-2016 16:57;Pessoal;Newland;Boone;419;
+07-16-2016 19:42;07-16-2016 20:35;Pessoal;Boone;Banner Elk;238;
+07-16-2016 21:45;07-16-2016 22:18;Pessoal;Banner Elk;Banner Elk;13;
+07-16-2016 22:50;07-16-2016 23:03;Negocio;Banner Elk;Banner Elk;44;Entregas
+07-17-2016 11:23;07-17-2016 11:50;Pessoal;Banner Elk;Boone;151;Caridade
+07-17-2016 12:20;07-17-2016 15:25;Pessoal;Boone;Cary;1802;Deslocamento
+07-18-2016 10:37;07-18-2016 10:49;Pessoal;Cary;Morrisville;41;Deslocamento
+07-18-2016 10:54;07-18-2016 11:15;Pessoal;Morrisville;Cary;61;Deslocamento
+07-18-2016 11:25;07-18-2016 11:36;Pessoal;Northwoods;Preston;33;Deslocamento
+07-18-2016 11:40;07-18-2016 11:56;Pessoal;Preston;Whitebridge;47;Deslocamento
+07-18-2016 17:12;07-18-2016 17:33;Negocio;Cary;Apex;72;Reunião
+07-18-2016 18:32;07-18-2016 18:47;Negocio;Apex;Cary;55;Alimentação
+07-18-2016 19:07;07-18-2016 19:14;Negocio;Cary;Morrisville;33;Alimentação
+07-18-2016 20:28;07-18-2016 20:32;Negocio;Hazelwood;Weston;9;Entregas
+07-18-2016 21:11;07-18-2016 21:19;Negocio;Morrisville;Cary;38;Alimentação
+07-19-2016 10:35;07-19-2016 10:51;Negocio;Whitebridge;Stonewater;64;Visita ao cliente
+07-19-2016 10:56;07-19-2016 11:11;Negocio;Stonewater;Lexington Park at Amberly;3;Reunião
+07-19-2016 11:30;07-19-2016 12:00;Negocio;Lexington Park at Amberly;Whitebridge;87;Alimentação
+07-19-2016 17:14;07-19-2016 17:24;Negocio;Whitebridge;Chessington;39;Entregas
+07-19-2016 17:50;07-19-2016 18:08;Pessoal;Chessington;Whitebridge;48;
+07-20-2016 17:12;07-20-2016 17:24;Pessoal;Whitebridge;Edgehill Farms;28;
+07-20-2016 17:50;07-20-2016 17:57;Pessoal;Edgehill Farms;Preston;14;
+07-20-2016 18:16;07-20-2016 18:20;Pessoal;Preston;Whitebridge;14;
+07-21-2016 17:17;07-21-2016 17:23;Negocio;Whitebridge;Edgehill Farms;27;
+07-21-2016 17:42;07-21-2016 17:51;Negocio;Edgehill Farms;Burtrose;23;
+07-21-2016 18:27;07-21-2016 18:42;Negocio;Cary;Morrisville;37;
+07-21-2016 19:30;07-21-2016 19:39;Negocio;Morrisville;Cary;29;
+07-22-2016 10:42;07-22-2016 10:53;Negocio;Cary;Morrisville;38;
+07-22-2016 11:11;07-22-2016 11:25;Negocio;Morrisville;Cary;51;
+07-22-2016 11:37;07-22-2016 12:00;Negocio;Hazelwood;Lexington Park at Amberly;91;
+07-22-2016 12:14;07-22-2016 12:31;Negocio;Cary;Durham;8;
+07-22-2016 13:21;07-22-2016 13:42;Negocio;Durham;Cary;99;Reunião
+07-22-2016 14:27;07-22-2016 14:43;Negocio;Cary;Morrisville;61;Alimentação
+07-22-2016 15:49;07-22-2016 16:22;Negocio;Morrisville;Cary;122;
+07-22-2016 18:33;07-22-2016 18:51;Negocio;Wayne Ridge;Whitebridge;8;
+07-23-2016 14:27;07-23-2016 14:44;Negocio;Cary;Morrisville;4;
+07-23-2016 14:48;07-23-2016 15:12;Negocio;Morrisville;Cary;95;
+07-23-2016 15:15;07-23-2016 15:27;Negocio;Cary;Morrisville;3;
+07-23-2016 15:50;07-23-2016 16:10;Negocio;Morrisville;Cary;63;
+07-23-2016 20:17;07-23-2016 20:33;Negocio;Cary;Durham;104;Reunião
+07-23-2016 23:18;07-23-2016 23:43;Negocio;Durham;Cary;99;Reunião
+07-25-2016 10:35;07-25-2016 10:41;Negocio;Whitebridge;Parkway;15;
+07-25-2016 10:47;07-25-2016 10:58;Negocio;Cary;Morrisville;49;
+07-25-2016 11:04;07-25-2016 11:33;Negocio;Morrisville;Cary;79;
+07-25-2016 11:37;07-25-2016 11:44;Negocio;Parkway;Whitebridge;17;
+07-26-2016 15:43;07-26-2016 15:49;Negocio;Whitebridge;Westpark Place;22;
+07-26-2016 17:14;07-26-2016 17:24;Negocio;Westpark Place;Whitebridge;21;
+07-26-2016 20:52;07-26-2016 21:00;Negocio;Cary;Morrisville;25;Alimentação
+07-26-2016 22:31;07-26-2016 22:39;Negocio;Morrisville;Cary;25;Alimentação
+07-27-2016 19:08;07-27-2016 19:20;Negocio;Cary;Morrisville;28;
+07-27-2016 21:34;07-27-2016 21:57;Negocio;Morrisville;Raleigh;147;
+07-27-2016 22:00;07-27-2016 22:26;Negocio;Raleigh;Morrisville;146;
+07-28-2016 0:04;07-28-2016 0:09;Negocio;Morrisville;Cary;23;
+07-29-2016 15:45;07-29-2016 15:47;Negocio;Whitebridge;Westpark Place;22;
+07-29-2016 17:27;07-29-2016 17:45;Negocio;Westpark Place;Whitebridge;22;Alimentação
+07-30-2016 17:02;07-30-2016 17:27;Negocio;Cary;Durham;14;
+07-30-2016 21:16;07-30-2016 21:41;Negocio;Durham;Cary;133;
+07-31-2016 17:30;07-31-2016 17:37;Negocio;Westpark Place;Whitebridge;18;
+08-01-2016 12:47;08-01-2016 13:04;Negocio;Whitebridge;Arlington Park at Amberly;62;
+08-01-2016 13:08;08-01-2016 13:19;Negocio;Arlington Park at Amberly;Lexington Park at Amberly;13;
+08-01-2016 13:28;08-01-2016 13:46;Negocio;Lexington Park at Amberly;Westpark Place;19;
+08-01-2016 13:52;08-01-2016 14:14;Negocio;Cary;Apex;69;
+08-01-2016 15:40;08-01-2016 15:47;Negocio;Apex;Cary;46;
+08-01-2016 16:18;08-01-2016 16:25;Negocio;Whitebridge;Edgehill Farms;28;
+08-01-2016 16:29;08-01-2016 16:59;Negocio;Cary;Morrisville;91;
+08-01-2016 17:23;08-01-2016 17:55;Negocio;Morrisville;Cary;81;
+08-02-2016 08:11;08-02-2016 08:32;Negocio;Cary;Morrisville;84;Reunião
+08-02-2016 11:51;08-02-2016 12:15;Negocio;Arlington;Washington;49;
+08-02-2016 19:15;08-02-2016 19:23;Negocio;Kalorama Triangle;K Street;1;
+08-02-2016 21:23;08-02-2016 21:29;Negocio;K Street;Kalorama Triangle;1;
+08-03-2016 12:46;08-03-2016 13:00;Negocio;West End;Northwest Rectangle;2;
+08-03-2016 14:59;08-03-2016 15:03;Negocio;K Street;Kalorama Triangle;11;
+08-03-2016 16:00;08-03-2016 16:04;Negocio;Kalorama Triangle;Downtown;15;
+08-05-2016 17:23;08-05-2016 17:30;Negocio;Connecticut Avenue;Kalorama Triangle;13;
+08-05-2016 18:17;08-05-2016 18:21;Negocio;Kalorama Triangle;Columbia Heights;18;
+08-05-2016 19:17;08-05-2016 19:27;Negocio;Columbia Heights;Kalorama Triangle;15;
+08-06-2016 06:40;08-06-2016 06:58;Negocio;Washington;Arlington;66;
+08-06-2016 09:31;08-06-2016 09:53;Negocio;Morrisville;Cary;8;
+08-07-2016 17:14;08-07-2016 17:23;Negocio;Whitebridge;Edgehill Farms;27;
+08-07-2016 17:28;08-07-2016 17:43;Negocio;Edgehill Farms;Whitebridge;27;Visita ao cliente
+08-07-2016 18:17;08-07-2016 18:23;Negocio;Cary;Morrisville;25;
+08-07-2016 20:15;08-07-2016 20:23;Negocio;Morrisville;Cary;25;Alimentação
+08-08-2016 16:17;08-08-2016 16:31;Negocio;Whitebridge;Farmington Woods;52;
+08-08-2016 16:37;08-08-2016 16:50;Negocio;Farmington Woods;Edgehill Farms;4;
+08-08-2016 17:02;08-08-2016 17:13;Negocio;Edgehill Farms;Whitebridge;27;Visita ao cliente
+08-08-2016 21:50;08-08-2016 22:15;Negocio;Cary;Morrisville;48;
+08-08-2016 23:28;08-08-2016 23:37;Negocio;Morrisville;Cary;32;Visita ao cliente
+08-09-2016 14:20;08-09-2016 14:38;Negocio;Whitebridge;Waverly Place;69;
+08-09-2016 15:15;08-09-2016 15:36;Negocio;Cary;Raleigh;149;
+08-09-2016 16:04;08-09-2016 16:37;Negocio;Raleigh;Cary;174;
+08-10-2016 16:56;08-10-2016 17:24;Negocio;Cary;Durham;129;
+08-10-2016 17:53;08-10-2016 18:28;Negocio;Durham;Apex;153;
+08-10-2016 18:49;08-10-2016 18:50;Negocio;Apex;Apex;1;
+08-10-2016 19:47;08-10-2016 20:02;Negocio;Apex;Cary;6;
+08-11-2016 12:53;08-11-2016 13:00;Negocio;Whitebridge;Heritage Pines;22;
+08-11-2016 13:14;08-11-2016 13:28;Negocio;Heritage Pines;Edgehill Farms;44;
+08-11-2016 13:32;08-11-2016 13:42;Negocio;Edgehill Farms;Whitebridge;28;
+08-11-2016 18:37;08-11-2016 19:29;Negocio;Cary;Wake Forest;317;
+08-11-2016 20:59;08-11-2016 21:44;Negocio;Wake Forest;Cary;319;
+08-12-2016 18:49;08-12-2016 18:52;Negocio;Whitebridge;Westpark Place;19;
+08-12-2016 18:56;08-12-2016 19:05;Negocio;Westpark Place;Whitebridge;18;
+08-13-2016 15:35;08-13-2016 15:58;Negocio;Cary;Morrisville;84;Reunião
+08-15-2016 9:05;08-15-2016 9:52;Negocio;R?walpindi;Unknown Location;156;
+08-15-2016 15:20;08-15-2016 15:47;Negocio;Unknown Location;Unknown Location;141;
+08-15-2016 16:52;08-15-2016 17:30;Negocio;Unknown Location;Unknown Location;157;
+08-15-2016 19:08;08-15-2016 20:30;Negocio;Unknown Location;Unknown Location;259;Parada temporária
+08-16-2016 7:58;08-16-2016 8:11;Negocio;Unknown Location;Unknown Location;79;
+08-16-2016 8:16;08-16-2016 8:23;Negocio;Unknown Location;Unknown Location;27;
+08-16-2016 8:46;08-16-2016 8:53;Negocio;Unknown Location;Unknown Location;55;
+08-16-2016 10:06;08-16-2016 10:27;Negocio;Unknown Location;Islamabad;57;
+08-16-2016 10:31;08-16-2016 10:38;Negocio;Islamabad;Islamabad;12;
+08-16-2016 11:47;08-16-2016 12:03;Negocio;Islamabad;Unknown Location;57;Parada temporária
+08-16-2016 15:13;08-16-2016 15:36;Negocio;Unknown Location;Unknown Location;162;
+08-17-2016 10:17;08-17-2016 10:41;Negocio;Unknown Location;Unknown Location;26;
+08-17-2016 10:57;08-17-2016 11:20;Negocio;Unknown Location;Unknown Location;121;
+08-17-2016 14:45;08-17-2016 14:50;Negocio;Unknown Location;R?walpindi;14;
+08-17-2016 15:32;08-17-2016 15:47;Negocio;R?walpindi;Islamabad;64;
+08-17-2016 16:29;08-17-2016 16:50;Negocio;Islamabad;Unknown Location;73;
+08-17-2016 16:54;08-17-2016 17:00;Negocio;Unknown Location;Unknown Location;53;
+08-17-2016 17:05;08-17-2016 17:34;Negocio;Unknown Location;Unknown Location;55;
+08-17-2016 18:38;08-17-2016 18:57;Negocio;Unknown Location;Unknown Location;77;Parada temporária
+08-18-2016 18:40;08-18-2016 19:07;Negocio;Unknown Location;Unknown Location;76;Parada temporária
+08-19-2016 8:24;08-19-2016 8:45;Negocio;Unknown Location;Noorpur Shahan;76;
+08-19-2016 8:54;08-19-2016 9:07;Negocio;Noorpur Shahan;Islamabad;33;
+08-19-2016 9:27;08-19-2016 9:47;Negocio;Islamabad;R?walpindi;65;
+08-19-2016 10:57;08-19-2016 11:06;Negocio;R?walpindi;Unknown Location;2;
+08-19-2016 12:07;08-19-2016 12:24;Negocio;Unknown Location;Islamabad;57;
+08-19-2016 15:51;08-19-2016 16:06;Negocio;Islamabad;Islamabad;32;
+08-19-2016 17:12;08-19-2016 17:52;Negocio;Islamabad;Unknown Location;125;
+08-21-2016 10:00;08-21-2016 10:29;Negocio;Unknown Location;Unknown Location;76;Aeroporto/Viagem
+08-21-2016 14:05;08-21-2016 14:34;Negocio;Unknown Location;Unknown Location;77;
+08-21-2016 16:30;08-21-2016 17:02;Negocio;Unknown Location;Islamabad;122;
+08-21-2016 18:10;08-21-2016 18:17;Negocio;Islamabad;Islamabad;14;
+08-21-2016 18:48;08-21-2016 19:24;Negocio;Islamabad;Unknown Location;202;
+08-22-2016 10:00;08-22-2016 10:44;Negocio;Unknown Location;Islamabad;98;
+08-22-2016 11:07;08-22-2016 11:23;Negocio;Islamabad;Unknown Location;63;
+08-22-2016 12:36;08-22-2016 12:49;Negocio;Unknown Location;Islamabad;49;
+08-22-2016 13:02;08-22-2016 13:11;Negocio;Islamabad;Islamabad;15;
+08-22-2016 14:07;08-22-2016 14:31;Negocio;Islamabad;Unknown Location;109;
+08-22-2016 15:14;08-22-2016 15:49;Negocio;Unknown Location;Unknown Location;19;
+08-22-2016 15:59;08-22-2016 17:16;Negocio;Unknown Location;Unknown Location;19;
+08-22-2016 19:58;08-22-2016 20:50;Negocio;Unknown Location;R?walpindi;79;
+08-22-2016 20:53;08-22-2016 21:31;Negocio;R?walpindi;R?walpindi;41;
+08-22-2016 22:31;08-22-2016 23:00;Negocio;R?walpindi;Unknown Location;187;
+08-23-2016 8:10;08-23-2016 8:25;Negocio;Unknown Location;Noorpur Shahan;87;
+08-23-2016 9:35;08-23-2016 10:09;Negocio;Noorpur Shahan;Unknown Location;75;
+08-23-2016 12:59;08-23-2016 13:15;Negocio;Unknown Location;Noorpur Shahan;77;
+08-23-2016 13:19;08-23-2016 13:30;Negocio;Noorpur Shahan;Islamabad;44;
+08-23-2016 13:49;08-23-2016 14:04;Negocio;Islamabad;Unknown Location;5;
+08-23-2016 15:07;08-23-2016 15:12;Negocio;Unknown Location;Unknown Location;19;
+08-23-2016 15:15;08-23-2016 17:16;Negocio;Unknown Location;Unknown Location;79;
+08-23-2016 17:42;08-23-2016 18:31;Negocio;Unknown Location;Unknown Location;177;
+08-24-2016 12:05;08-24-2016 12:56;Negocio;Unknown Location;Unknown Location;252;
+08-24-2016 13:01;08-24-2016 15:25;Negocio;Unknown Location;Unknown Location;962;
+08-25-2016 15:17;08-25-2016 16:22;Negocio;Unknown Location;Unknown Location;35;
+08-25-2016 16:36;08-25-2016 16:56;Negocio;Unknown Location;Unknown Location;55;
+08-25-2016 17:19;08-25-2016 19:20;Negocio;Unknown Location;Unknown Location;504;
+08-25-2016 19:25;08-25-2016 19:57;Negocio;Unknown Location;Lahore;92;
+08-25-2016 22:58;08-25-2016 23:16;Negocio;Lahore;Unknown Location;73;
+08-26-2016 9:06;08-26-2016 9:20;Negocio;Unknown Location;Unknown Location;5;
+08-26-2016 11:14;08-26-2016 11:26;Negocio;Unknown Location;Unknown Location;38;
+08-26-2016 12:10;08-26-2016 12:20;Negocio;Unknown Location;Lahore;39;
+08-26-2016 14:10;08-26-2016 14:33;Negocio;Lahore;Lahore;74;
+08-26-2016 15:23;08-26-2016 15:35;Negocio;Lahore;Lahore;15;
+08-26-2016 15:59;08-26-2016 16:24;Negocio;Lahore;Unknown Location;79;
+08-26-2016 16:55;08-26-2016 17:12;Negocio;Unknown Location;Lahore;29;
+08-26-2016 18:42;08-26-2016 18:56;Negocio;Lahore;Lahore;34;
+08-26-2016 19:31;08-26-2016 19:54;Negocio;Lahore;Lahore;38;
+08-26-2016 20:06;08-26-2016 20:16;Negocio;Lahore;Unknown Location;59;
+08-27-2016 9:34;08-27-2016 10:11;Negocio;Unknown Location;Lahore;96;
+08-27-2016 11:47;08-27-2016 12:06;Negocio;Lahore;Lahore;7;
+08-27-2016 12:12;08-27-2016 12:17;Negocio;Lahore;Lahore;9;
+08-27-2016 14:01;08-27-2016 15:44;Negocio;Lahore;Unknown Location;866;
+08-27-2016 16:15;08-27-2016 19:13;Negocio;Unknown Location;Unknown Location;1569;
+08-28-2016 9:57;08-28-2016 10:18;Negocio;Unknown Location;Noorpur Shahan;101;
+08-28-2016 16:39;08-28-2016 16:55;Negocio;Noorpur Shahan;Islamabad;62;
+08-28-2016 17:37;08-28-2016 17:55;Negocio;Islamabad;Islamabad;53;
+08-28-2016 21:15;08-28-2016 21:59;Negocio;Islamabad;Unknown Location;121;
+08-29-2016 12:02;08-29-2016 12:31;Negocio;Unknown Location;Islamabad;108;
+08-29-2016 13:38;08-29-2016 13:48;Negocio;Islamabad;Islamabad;43;
+08-29-2016 14:31;08-29-2016 14:41;Negocio;Islamabad;Islamabad;25;
+08-29-2016 14:49;08-29-2016 15:04;Negocio;Islamabad;Unknown Location;57;Parada temporária
+08-29-2016 15:49;08-29-2016 15:59;Negocio;Unknown Location;Islamabad;28;
+08-29-2016 16:06;08-29-2016 16:21;Negocio;Islamabad;Unknown Location;4;
+08-29-2016 17:24;08-29-2016 17:41;Negocio;Unknown Location;Islamabad;55;
+08-29-2016 18:27;08-29-2016 18:36;Negocio;Islamabad;Islamabad;26;
+08-30-2016 11:53;08-30-2016 12:05;Negocio;Unknown Location;Unknown Location;21;
+08-30-2016 12:46;08-30-2016 13:09;Negocio;Unknown Location;Islamabad;88;
+08-30-2016 13:25;08-30-2016 13:46;Negocio;Islamabad;Islamabad;44;
+08-30-2016 14:00;08-30-2016 14:20;Negocio;Islamabad;Unknown Location;53;
+08-30-2016 17:27;08-30-2016 18:09;Negocio;Unknown Location;Unknown Location;13;
+09-01-2016 11:51;09-01-2016 12:24;Negocio;Unknown Location;Islamabad;13;
+09-01-2016 17:21;09-01-2016 17:36;Negocio;Islamabad;Unknown Location;106;
+09-01-2016 18:49;09-01-2016 19:08;Negocio;Unknown Location;Unknown Location;22;
+09-02-2016 11:37;09-02-2016 12:24;Negocio;Unknown Location;Islamabad;92;
+09-02-2016 18:56;09-02-2016 19:37;Negocio;Unknown Location;Unknown Location;129;
+09-05-2016 10:25;09-05-2016 10:44;Negocio;Unknown Location;R?walpindi;172;
+09-06-2016 17:49;09-06-2016 17:49;Negocio;Unknown Location;Unknown Location;691;
+09-10-2016 10:28;09-10-2016 10:45;Negocio;Unknown Location;Unknown Location;28;
+09-11-2016 09:51;09-11-2016 09:55;Negocio;Unknown Location;Unknown Location;86;
+09-11-2016 21:40;09-11-2016 21:42;Negocio;Unknown Location;Unknown Location;98;
+09-12-2016 08:07;09-12-2016 08:12;Negocio;Unknown Location;Unknown Location;36;
+09-12-2016 11:15;09-12-2016 11:24;Negocio;Unknown Location;Unknown Location;17;
+09-12-2016 13:04;09-12-2016 13:44;Negocio;Unknown Location;Unknown Location;115;
+09-13-2016 16:56;09-13-2016 17:02;Negocio;Unknown Location;Unknown Location;7;
+09-14-2016 11:55;09-14-2016 11:59;Negocio;Unknown Location;Unknown Location;7;
+09-15-2016 20:33;09-15-2016 20:38;Negocio;Unknown Location;Unknown Location;9;
+09-16-2016 7:08;09-16-2016 7:08;Negocio;Unknown Location;Unknown Location;16;
+09-18-2016 18:07;09-18-2016 18:11;Negocio;Unknown Location;Unknown Location;94;
+09-19-2016 6:18;09-19-2016 6:49;Negocio;R?walpindi;Unknown Location;182;
+09-19-2016 14:40;09-19-2016 14:56;Negocio;Unknown Location;Islamabad;105;
+09-19-2016 16:23;09-19-2016 16:31;Negocio;Islamabad;Unknown Location;57;
+09-19-2016 17:36;09-19-2016 18:20;Negocio;Unknown Location;Unknown Location;18;
+09-19-2016 19:10;09-19-2016 19:49;Negocio;Unknown Location;Islamabad;183;
+09-20-2016 11:29;09-20-2016 11:48;Negocio;Islamabad;Unknown Location;165;
+09-20-2016 20:47;09-20-2016 22:47;Negocio;Unknown Location;R?walpindi;96;
+09-23-2016 13:15;09-23-2016 13:40;Negocio;Karchi;Karchi;29;
+09-24-2016 14:34;09-24-2016 15:15;Negocio;Karchi;Unknown Location;82;
+09-24-2016 20:29;09-24-2016 20:33;Negocio;Unknown Location;Unknown Location;24;
+09-27-2016 8:33;09-27-2016 8:35;Negocio;Unknown Location;Unknown Location;58;
+09-27-2016 13:21;09-27-2016 14:43;Negocio;Lahore;Lahore;98;
+09-27-2016 19:14;09-27-2016 20:34;Negocio;Lahore;Unknown Location;73;
+09-27-2016 21:01;09-28-2016 2:37;Negocio;Unknown Location;Unknown Location;1956;
+09-28-2016 17:21;09-28-2016 19:36;Negocio;Islamabad;Unknown Location;205;
+09-29-2016 16:13;09-29-2016 18:47;Negocio;Unknown Location;Islamabad;126;
+09-30-2016 17:39;09-30-2016 20:20;Negocio;Islamabad;Islamabad;377;
+09-30-2016 20:59;09-30-2016 22:34;Negocio;Islamabad;Unknown Location;167;
+10-03-2016 17:09;10-03-2016 17:12;Negocio;Unknown Location;Islamabad;105;
+10-03-2016 18:17;10-03-2016 18:34;Negocio;Islamabad;Islamabad;28;
+10-03-2016 18:51;10-03-2016 19:01;Negocio;Islamabad;Islamabad;16;
+10-03-2016 22:04;10-03-2016 22:33;Negocio;Islamabad;Unknown Location;127;
+10-04-2016 09:50;10-04-2016 10:52;Negocio;Unknown Location;Unknown Location;286;
+10-04-2016 12:17;10-04-2016 12:18;Negocio;Unknown Location;Unknown Location;151;
+10-06-2016 08:49;10-06-2016 11:36;Negocio;Unknown Location;R?walpindi;179;
+10-06-2016 17:23;10-06-2016 17:40;Negocio;R?walpindi;Unknown Location;1126;
+10-06-2016 18:37;10-06-2016 18:39;Negocio;Unknown Location;Unknown Location;184;
+10-06-2016 19:46;10-06-2016 20:26;Negocio;Unknown Location;Unknown Location;138;
+10-07-2016 10:56;10-07-2016 10:59;Negocio;Unknown Location;Lahore;332;
+10-07-2016 11:27;10-07-2016 11:50;Negocio;Lahore;Lahore;26;
+10-07-2016 13:52;10-07-2016 14:08;Negocio;Lahore;Unknown Location;58;
+10-07-2016 14:29;10-07-2016 15:11;Negocio;Unknown Location;Lahore;83;
+10-07-2016 15:47;10-07-2016 16:02;Negocio;Lahore;Lahore;24;
+10-07-2016 18:08;10-07-2016 18:27;Negocio;Lahore;Lahore;31;
+10-07-2016 18:33;10-07-2016 19:01;Negocio;Lahore;Lahore;61;
+10-08-2016 15:03;10-08-2016 15:03;Negocio;Karchi;Karchi;36;
+10-08-2016 18:15;10-08-2016 18:18;Negocio;Karchi;Unknown Location;8;
+10-09-2016 14:04;10-09-2016 14:23;Negocio;Unknown Location;Unknown Location;77;Parada temporária
+10-10-2016 17:22;10-10-2016 17:28;Negocio;Islamabad;Islamabad;17;
+10-10-2016 17:33;10-10-2016 18:13;Negocio;Islamabad;Unknown Location;95;
+10-11-2016 01:27;10-11-2016 02:08;Negocio;Unknown Location;R?walpindi;171;Reunião
+10-12-2016 19:18;10-12-2016 19:21;Negocio;R?walpindi;Unknown Location;184;
+10-13-2016 11:20;10-13-2016 11:58;Negocio;Unknown Location;Islamabad;98;
+10-13-2016 12:08;10-13-2016 12:14;Negocio;Islamabad;Islamabad;1;
+10-13-2016 13:02;10-13-2016 13:02;Negocio;Islamabad;Islamabad;7;
+10-13-2016 13:37;10-13-2016 13:46;Negocio;Islamabad;Islamabad;23;
+10-13-2016 16:08;10-13-2016 16:53;Negocio;Islamabad;Unknown Location;109;
+10-14-2016 8:50;10-14-2016 9:44;Negocio;Unknown Location;R?walpindi;127;
+10-14-2016 10:16;10-14-2016 10:52;Negocio;R?walpindi;Unknown Location;124;
+10-14-2016 15:56;10-14-2016 16:20;Negocio;Unknown Location;Unknown Location;38;
+10-14-2016 23:54;10-15-2016 2:06;Negocio;Unknown Location;R?walpindi;17;Reunião
+10-15-2016 22:28;10-15-2016 22:48;Negocio;Morrisville;Morrisville;62;
+10-16-2016 0:01;10-16-2016 0:14;Negocio;Morrisville;Cary;31;
+10-16-2016 12:52;10-16-2016 13:11;Negocio;Cary;Durham;105;Reunião
+10-16-2016 14:40;10-16-2016 15:01;Negocio;Durham;Morrisville;81;
+10-16-2016 15:10;10-16-2016 15:19;Negocio;Morrisville;Cary;31;
+10-16-2016 19:27;10-16-2016 19:33;Negocio;Whitebridge;Parkway;21;Reunião
+10-16-2016 20:30;10-16-2016 20:39;Negocio;Cary;Morrisville;43;
+10-16-2016 21:34;10-16-2016 21:41;Negocio;Morrisville;Cary;25;Alimentação
+10-17-2016 15:19;10-17-2016 15:57;Negocio;Cary;Raleigh;206;
+10-17-2016 16:29;10-17-2016 17:11;Negocio;Raleigh;Cary;176;
+10-17-2016 18:02;10-17-2016 18:16;Negocio;Cary;Apex;56;
+10-17-2016 18:31;10-17-2016 18:45;Negocio;Apex;Apex;33;
+10-17-2016 19:08;10-17-2016 19:25;Negocio;Apex;Cary;53;
+10-18-2016 8:12;10-18-2016 8:22;Negocio;Whitebridge;Edgehill Farms;33;
+10-18-2016 8:53;10-18-2016 9:02;Negocio;Edgehill Farms;Whitebridge;33;
+10-18-2016 10:41;10-18-2016 11:09;Negocio;Cary;Morrisville;79;Parada temporária
+10-18-2016 18:12;10-18-2016 18:33;Negocio;Oakland;Emeryville;13;
+10-18-2016 19:03;10-18-2016 19:13;Negocio;Emeryville;Berkeley;3;
+10-18-2016 20:31;10-18-2016 20:37;Negocio;Berkeley;Emeryville;3;
+10-19-2016 9:33;10-19-2016 9:47;Negocio;Emeryville;Oakland;38;
+10-19-2016 9:54;10-19-2016 10:21;Negocio;Oakland;San Francisco;95;
+10-19-2016 13:45;10-19-2016 13:56;Negocio;SOMISSPO;French Quarter;17;
+10-19-2016 14:02;10-19-2016 14:31;Negocio;San Francisco;Berkeley;108;
+10-19-2016 15:44;10-19-2016 16:02;Negocio;West Berkeley;North Berkeley Hills;41;
+10-19-2016 16:06;10-19-2016 16:19;Negocio;North Berkeley Hills;Southside;22;
+10-19-2016 16:33;10-19-2016 17:01;Negocio;Berkeley;Emeryville;46;
+10-20-2016 11:26;10-20-2016 11:34;Negocio;Emeryville;Berkeley;31;
+10-20-2016 12:19;10-20-2016 13:17;Negocio;Berkeley;San Jose;477;
+10-20-2016 20:44;10-20-2016 21:37;Negocio;San Jose;Emeryville;446;
+10-21-2016 10:06;10-21-2016 10:21;Negocio;Emeryville;Oakland;132;
+10-22-2016 0:54;10-22-2016 1:09;Negocio;Morrisville;Cary;87;
+10-22-2016 13:26;10-22-2016 14:03;Negocio;Cary;Raleigh;172;
+10-22-2016 17:08;10-22-2016 17:55;Negocio;Raleigh;Cary;14;
+10-23-2016 9:24;10-23-2016 10:05;Negocio;Cary;Raleigh;281;
+10-23-2016 12:17;10-23-2016 12:59;Negocio;Raleigh;Cary;282;
+10-23-2016 19:04;10-23-2016 19:14;Negocio;Cary;Morrisville;31;Alimentação
+10-23-2016 21:10;10-23-2016 21:25;Negocio;Morrisville;Cary;31;Visita ao cliente
+10-24-2016 14:57;10-24-2016 15:26;Negocio;Cary;Durham;164;
+10-24-2016 15:33;10-24-2016 16:13;Negocio;Durham;Morrisville;154;
+10-24-2016 16:34;10-24-2016 16:41;Negocio;Morrisville;Cary;22;
+10-25-2016 13:27;10-25-2016 14:08;Negocio;Cary;Apex;112;
+10-25-2016 15:04;10-25-2016 15:11;Negocio;Apex;Eagle Rock;22;
+10-25-2016 15:16;10-25-2016 15:33;Negocio;Eagle Rock;Cary;36;
+10-25-2016 20:00;10-25-2016 20:11;Negocio;Whitebridge;Savon Height;36;Alimentação
+10-25-2016 20:54;10-25-2016 21:03;Negocio;Savon Height;Parkway;49;
+10-25-2016 22:24;10-25-2016 22:45;Negocio;Parkway;Whitebridge;87;Entregas
+10-26-2016 19:25;10-26-2016 19:31;Negocio;Whitebridge;Parkway;21;Reunião
+10-26-2016 20:53;10-26-2016 21:03;Negocio;Parkway;Whitebridge;21;
+10-27-2016 18:51;10-27-2016 19:16;Negocio;Cary;Morrisville;84;Reunião
+10-27-2016 19:20;10-27-2016 19:35;Negocio;Morrisville;Morrisville;59;
+10-27-2016 19:52;10-27-2016 20:21;Negocio;Huntington Woods;Huntington Woods;121;
+10-27-2016 20:47;10-27-2016 20:54;Negocio;Huntington Woods;Weston;39;
+10-27-2016 21:26;10-27-2016 21:48;Negocio;Morrisville;Cary;62;
+10-28-2016 11:34;10-28-2016 11:52;Negocio;Cary;Durham;104;Reunião
+10-28-2016 13:06;10-28-2016 13:36;Negocio;Durham;Cary;99;Reunião
+10-28-2016 15:53;10-28-2016 17:59;Negocio;Cary;Winston Salem;107;Reunião
+10-28-2016 18:13;10-28-2016 20:07;Negocio;Winston Salem;Asheville;1336;Reunião
+10-28-2016 20:13;10-28-2016 22:00;Negocio;Asheville;Topton;918;Reunião
+10-29-2016 15:22;10-29-2016 17:05;Negocio;Topton;Hayesville;407;Reunião
+10-29-2016 17:13;10-29-2016 19:19;Negocio;Hayesville;Topton;757;
+10-30-2016 7:49;10-30-2016 8:30;Negocio;Topton;Bryson City;298;
+10-30-2016 9:07;10-30-2016 10:09;Negocio;Bryson City;Bryson City;163;
+10-30-2016 10:11;10-30-2016 10:38;Negocio;Bryson City;Bryson City;65;
+10-30-2016 10:51;10-30-2016 11:21;Negocio;Bryson City;Bryson City;63;
+10-30-2016 12:24;10-30-2016 12:35;Negocio;Bryson City;Almond;66;
+10-30-2016 12:58;10-30-2016 13:18;Negocio;Almond;Bryson City;152;
+10-30-2016 13:24;10-30-2016 14:37;Negocio;Bryson City;Asheville;684;
+10-30-2016 15:22;10-30-2016 18:23;Negocio;Asheville;Mebane;1959;
+10-30-2016 18:26;10-30-2016 19:39;Negocio;Mebane;Cary;452;
+10-31-2016 18:11;10-31-2016 18:20;Negocio;Cary;Morrisville;32;
+10-31-2016 18:47;10-31-2016 19:16;Negocio;Morrisville;Raleigh;103;
+10-31-2016 20:18;10-31-2016 20:44;Negocio;Raleigh;Cary;131;
+10-31-2016 21:45;10-31-2016 22:10;Negocio;Savon Height;Whitebridge;96;Entregas
+11-01-2016 11:50;11-01-2016 12:27;Negocio;Cary;Durham;165;
+11-01-2016 16:29;11-01-2016 17:02;Negocio;Durham;Cary;128;
+11-01-2016 17:35;11-01-2016 17:42;Negocio;Whitebridge;Whitebridge;12;
+11-01-2016 19:14;11-01-2016 19:20;Negocio;Whitebridge;Whitebridge;1;
+11-01-2016 19:59;11-01-2016 20:12;Negocio;Whitebridge;Whitebridge;41;
+11-01-2016 20:41;11-01-2016 20:55;Negocio;Whitebridge;Whitebridge;42;Alimentação
+11-02-2016 15:10;11-02-2016 15:18;Negocio;Whitebridge;Westpark Place;14;
+11-02-2016 15:45;11-02-2016 15:52;Negocio;Westpark Place;Whitebridge;18;
+11-02-2016 16:46;11-02-2016 17:11;Negocio;Cary;Morrisville;85;Reunião
+11-02-2016 17:34;11-02-2016 17:49;Negocio;Morrisville;Morrisville;5;
+11-02-2016 17:53;11-02-2016 18:00;Negocio;Morrisville;Cary;38;
+11-03-2016 11:28;11-03-2016 11:34;Negocio;Whitebridge;Hazelwood;25;
+11-03-2016 12:43;11-03-2016 12:49;Negocio;Hazelwood;Whitebridge;24;
+11-03-2016 13:42;11-03-2016 13:47;Negocio;Whitebridge;Westpark Place;14;
+11-03-2016 14:13;11-03-2016 14:26;Negocio;Westpark Place;Whitebridge;18;
+11-03-2016 18:51;11-03-2016 19:08;Negocio;Cary;Morrisville;31;Alimentação
+11-03-2016 22:46;11-03-2016 22:58;Negocio;Morrisville;Cary;31;Visita ao cliente
+11-04-2016 10:02;11-04-2016 10:18;Negocio;Cary;Morrisville;79;Parada temporária
+11-04-2016 18:14;11-04-2016 18:21;Negocio;San Jose;Santa Clara;38;
+11-04-2016 21:04;11-04-2016 21:20;Negocio;Agnew;Cory;43;
+11-04-2016 22:12;11-04-2016 22:25;Negocio;Cory;Agnew;39;
+11-05-2016 08:34;11-05-2016 08:43;Negocio;Agnew;Renaissance;22;
+11-05-2016 17:29;11-05-2016 17:40;Negocio;Renaissance;Agnew;28;
+11-05-2016 19:20;11-05-2016 19:28;Negocio;Agnew;Agnew;22;
+11-06-2016 10:50;11-06-2016 11:04;Negocio;Agnew;Renaissance;24;
+11-06-2016 16:05;11-06-2016 16:22;Negocio;Renaissance;Agnew;28;Reunião
+11-06-2016 16:27;11-06-2016 17:28;Negocio;Santa Clara;Berkeley;439;Visita ao cliente
+11-06-2016 19:04;11-06-2016 19:12;Negocio;Downtown;West Berkeley;18;
+11-06-2016 20:06;11-06-2016 20:21;Negocio;West Berkeley;Central;33;
+11-07-2016 12:28;11-07-2016 12:57;Negocio;Berkeley;San Francisco;118;Entre escritórios
+11-07-2016 19:17;11-07-2016 19:57;Negocio;San Francisco;Berkeley;132;Entre escritórios
+11-08-2016 10:29;11-08-2016 10:57;Negocio;Berkeley;San Francisco;122;Entre escritórios
+11-08-2016 12:16;11-08-2016 12:49;Negocio;San Francisco;Berkeley;113;Reunião
+11-08-2016 13:41;11-08-2016 14:01;Negocio;Berkeley;Emeryville;36;
+11-08-2016 16:21;11-08-2016 16:34;Negocio;Emeryville;Berkeley;3;
+11-09-2016 13:08;11-09-2016 13:41;Negocio;Berkeley;San Francisco;114;
+11-09-2016 15:58;11-09-2016 16:04;Negocio;NOMA;Downtown;9;
+11-09-2016 17:31;11-09-2016 18:03;Negocio;Downtown;Sunnyside;62;
+11-09-2016 18:09;11-09-2016 18:14;Negocio;Sunnyside;Ingleside;7;
+11-09-2016 18:21;11-09-2016 18:35;Negocio;Ingleside;Potrero Flats;55;Reunião
+11-09-2016 18:40;11-09-2016 19:17;Negocio;San Francisco;Oakland;127;Visita ao cliente
+11-09-2016 20:52;11-09-2016 21:02;Negocio;Oakland;Berkeley;26;
+11-09-2016 21:56;11-09-2016 22:02;Negocio;Central;Central;11;
+11-10-2016 09:46;11-10-2016 10:15;Negocio;Berkeley;San Francisco;126;Parada temporária
+11-10-2016 10:20;11-10-2016 10:31;Negocio;Tenderloin;SOMISSPO;12;
+11-10-2016 14:57;11-10-2016 15:07;Negocio;SOMISSPO;Tenderloin;11;
+11-10-2016 15:17;11-10-2016 15:22;Negocio;San Francisco;Oakland;99;Parada temporária
+11-10-2016 15:30;11-10-2016 15:53;Negocio;Oakland;Berkeley;6;Reunião
+11-10-2016 19:18;11-10-2016 19:21;Negocio;West Berkeley;Central;8;
+11-11-2016 09:35;11-11-2016 10:23;Negocio;Berkeley;Menlo Park;459;Visita ao cliente
+11-11-2016 12:58;11-11-2016 13:13;Negocio;Menlo Park;Palo Alto;4;
+11-11-2016 14:20;11-11-2016 14:32;Negocio;Palo Alto;Menlo Park;25;
+11-11-2016 14:39;11-11-2016 15:46;Negocio;Menlo Park;Berkeley;366;Visita ao cliente
+11-11-2016 18:30;11-11-2016 18:43;Negocio;Central;College Avenue;29;
+11-11-2016 21:08;11-11-2016 21:18;Negocio;College Avenue;Central;26;
+11-12-2016 10:32;11-12-2016 10:52;Negocio;Central;South;23;
+11-12-2016 10:55;11-12-2016 11:25;Negocio;South;Downtown;64;
+11-12-2016 13:07;11-12-2016 13:15;Negocio;Downtown;Central;14;
+11-12-2016 13:46;11-12-2016 13:50;Negocio;Central;West Berkeley;6;
+11-12-2016 14:22;11-12-2016 14:53;Negocio;West Berkeley;South;59;Reunião
+11-12-2016 15:14;11-12-2016 15:21;Negocio;South;Southwest Berkeley;8;
+11-12-2016 15:25;11-12-2016 15:36;Negocio;Berkeley;Emeryville;13;
+11-12-2016 15:40;11-12-2016 15:59;Negocio;Emeryville;Berkeley;37;Entregas
+11-13-2016 8:54;11-13-2016 9:02;Negocio;Central;Central;23;
+11-13-2016 9:27;11-13-2016 9:53;Negocio;Central;Central;26;
+11-13-2016 10:31;11-13-2016 10:37;Negocio;Central;Southside;19;
+11-13-2016 11:04;11-13-2016 11:16;Negocio;Southside;West Berkeley;21;
+11-13-2016 12:22;11-13-2016 12:51;Negocio;West Berkeley;Southside;4;Reunião
+11-13-2016 13:05;11-13-2016 13:11;Negocio;Southside;South Berkeley;9;
+11-13-2016 13:14;11-13-2016 13:18;Negocio;South Berkeley;Southside;9;
+11-13-2016 14:35;11-13-2016 14:46;Negocio;Southside;Central;24;
+11-13-2016 15:14;11-13-2016 15:24;Negocio;Central;Southside;19;
+11-13-2016 15:47;11-13-2016 15:59;Negocio;Southside;Central;19;
+11-13-2016 11:24;11-13-2016 12:13;Negocio;Berkeley;Mountain View;446;Visita ao cliente
+11-13-2016 13:40;11-13-2016 14:33;Negocio;Mountain View;Berkeley;436;Visita ao cliente
+11-13-2016 15:27;11-13-2016 15:36;Negocio;Berkeley;Emeryville;25;
+11-13-2016 20:19;11-13-2016 20:30;Negocio;Emeryville;Berkeley;37;Entregas
+11-15-2016 13:59;11-15-2016 14:06;Negocio;Berkeley;Oakland;51;
+11-15-2016 14:09;11-15-2016 14:26;Negocio;Oakland;San Francisco;97;Parada temporária
+11-15-2016 20:44;11-15-2016 21:00;Negocio;San Francisco;Berkeley;118;Parada temporária
+11-16-2016 20:21;11-16-2016 20:27;Negocio;Berkeley;El Cerrito;23;Parada temporária
+11-16-2016 22:52;11-16-2016 23:02;Negocio;El Cerrito;Berkeley;31;Alimentação
+11-17-2016 10:13;11-17-2016 10:44;Negocio;Berkeley;Oakland;163;Visita ao cliente
+11-18-2016 20:09;11-18-2016 20:19;Negocio;Cary;Morrisville;31;Alimentação
+11-18-2016 21:23;11-18-2016 21:34;Negocio;Morrisville;Cary;52;Alimentação
+11-18-2016 21:56;11-18-2016 22:21;Negocio;Krendle Woods;Whitebridge;61;Reunião
+11-19-2016 13:51;11-19-2016 14:10;Negocio;Cary;Durham;103;Reunião
+11-19-2016 14:30;11-19-2016 14:51;Negocio;Durham;Cary;105;Reunião
+11-19-2016 16:01;11-19-2016 16:06;Negocio;Cary;Cary;15;
+11-19-2016 16:27;11-19-2016 16:41;Negocio;Cary;Cary;18;
+11-19-2016 17:41;11-19-2016 17:54;Negocio;Cary;Apex;54;Entregas
+11-19-2016 21:14;11-19-2016 21:35;Negocio;Apex;Cary;54;Visita ao cliente
+11-20-2016 10:27;11-20-2016 11:32;Negocio;Cary;Cary;392;Entre escritórios
+11-20-2016 11:58;11-20-2016 12:28;Negocio;Cary;Cary;64;Visita ao cliente
+11-20-2016 14:58;11-20-2016 15:07;Negocio;Cary;Cary;27;Reunião
+11-20-2016 17:45;11-20-2016 18:37;Negocio;Cary;Cary;185;Entregas
+11-21-2016 13:37;11-21-2016 13:49;Negocio;Cary;Cary;25;Alimentação
+11-21-2016 14:34;11-21-2016 14:44;Negocio;Cary;Cary;21;Alimentação
+11-21-2016 17:50;11-21-2016 18:04;Negocio;Cary;Unknown Location;67;Entregas
+11-21-2016 18:18;11-21-2016 18:27;Negocio;Unknown Location;Morrisville;35;Alimentação
+11-21-2016 18:43;11-21-2016 18:51;Negocio;Morrisville;Cary;34;Entregas
+11-22-2016 15:12;11-22-2016 15:27;Negocio;Cary;Cary;55;Reunião
+11-22-2016 15:31;11-22-2016 15:44;Negocio;Cary;Cary;41;Reunião
+11-22-2016 15:51;11-22-2016 16:43;Negocio;Cary;Cary;127;Visita ao cliente
+11-22-2016 18:18;11-22-2016 18:28;Negocio;Cary;Morrisville;3;Alimentação
+11-22-2016 21:02;11-22-2016 21:14;Negocio;Morrisville;Cary;35;Visita ao cliente
+11-23-2016 15:34;11-23-2016 15:50;Negocio;Cary;Cary;59;Alimentação
+11-23-2016 16:18;11-23-2016 16:29;Negocio;Cary;Cary;19;
+11-23-2016 16:49;11-23-2016 17:00;Negocio;Cary;Cary;33;
+11-23-2016 18:37;11-23-2016 18:47;Negocio;Cary;Cary;13;
+11-25-2016 11:47;11-25-2016 12:04;Negocio;Cary;Durham;103;Reunião
+11-25-2016 13:13;11-25-2016 13:31;Negocio;Durham;Cary;111;Reunião
+11-26-2016 15:54;11-26-2016 15:59;Negocio;Cary;Cary;14;
+11-26-2016 17:00;11-26-2016 17:12;Negocio;Cary;Apex;51;Reunião
+11-26-2016 17:36;11-26-2016 17:56;Negocio;Apex;Holly Springs;9;Reunião
+11-26-2016 18:29;11-26-2016 19:04;Negocio;Holly Springs;Cary;133;Entre escritórios
+11-26-2016 19:47;11-26-2016 19:54;Negocio;Cary;Cary;25;Entregas
+11-27-2016 15:59;11-27-2016 16:06;Negocio;Cary;Morrisville;33;Alimentação
+11-27-2016 18:55;11-27-2016 19:09;Negocio;Morrisville;Cary;29;
+11-30-2016 11:03;11-30-2016 11:34;Negocio;Cary;Raleigh;85;Visita ao cliente
+11-30-2016 11:53;11-30-2016 12:35;Negocio;Raleigh;Morrisville;67;Parada temporária
+11-30-2016 12:43;11-30-2016 12:53;Negocio;Morrisville;Cary;31;
+12-01-2016 07:44;12-01-2016 07:59;Negocio;Cary;Cary;55;Reunião
+12-01-2016 08:37;12-01-2016 08:53;Negocio;Cary;Cary;55;Entregas
+12-01-2016 18:00;12-01-2016 18:12;Negocio;Cary;Morrisville;29;Alimentação
+12-01-2016 20:36;12-01-2016 20:46;Negocio;Morrisville;Cary;29;Visita ao cliente
+12-02-2016 12:12;12-02-2016 12:23;Negocio;Cary;Apex;51;Alimentação
+12-02-2016 13:07;12-02-2016 13:22;Negocio;Apex;Cary;53;Visita ao cliente
+12-02-2016 20:41;12-02-2016 20:48;Negocio;Cary;Morrisville;33;Alimentação
+12-02-2016 22:59;12-02-2016 23:07;Negocio;Morrisville;Cary;3;Visita ao cliente
+12-03-2016 18:35;12-03-2016 18:56;Negocio;Cary;Wake Co.;66;Entregas
+12-03-2016 19:08;12-03-2016 19:15;Negocio;Wake Co.;Morrisville;18;
+12-03-2016 20:31;12-03-2016 20:41;Negocio;Morrisville;Cary;3;Visita ao cliente
+12-04-2016 18:56;12-04-2016 19:03;Negocio;Cary;Morrisville;29;Alimentação
+12-04-2016 20:23;12-04-2016 20:34;Negocio;Morrisville;Cary;34;Visita ao cliente
+12-05-2016 18:04;12-05-2016 18:17;Negocio;Cary;Cary;41;
+12-05-2016 19:22;12-05-2016 19:37;Negocio;Cary;Cary;38;Alimentação
+12-07-2016 12:03;12-07-2016 12:32;Negocio;Cary;Cary;66;Reunião
+12-07-2016 12:35;12-07-2016 12:46;Negocio;Cary;Cary;4;Reunião
+12-07-2016 19:53;12-07-2016 20:13;Negocio;Cary;Cary;7;Visita ao cliente
+12-07-2016 21:13;12-07-2016 21:50;Negocio;Cary;Cary;69;Alimentação
+12-08-2016 14:19;12-08-2016 14:32;Negocio;Cary;Cary;34;Entregas
+12-08-2016 14:53;12-08-2016 15:02;Negocio;Cary;Cary;34;Entregas
+12-08-2016 19:22;12-08-2016 19:27;Negocio;Cary;Cary;2;Reunião
+12-08-2016 21:26;12-08-2016 21:31;Negocio;Cary;Cary;2;Entregas
+12-09-2016 12:09;12-09-2016 12:24;Negocio;Cary;Apex;51;Entregas
+12-09-2016 13:15;12-09-2016 13:43;Negocio;Apex;Cary;88;Parada temporária
+12-09-2016 20:11;12-09-2016 20:34;Negocio;Cary;Cary;56;Reunião
+12-09-2016 22:03;12-09-2016 22:57;Negocio;Cary;Cary;189;Visita ao cliente
+12-10-2016 12:43;12-10-2016 13:16;Negocio;Cary;Fuquay-Varina;156;Reunião
+12-10-2016 14:42;12-10-2016 15:18;Negocio;Fuquay-Varina;Cary;156;Entregas
+12-10-2016 18:17;12-10-2016 18:27;Negocio;Cary;Morrisville;3;Alimentação
+12-10-2016 22:09;12-10-2016 22:21;Negocio;Morrisville;Cary;31;Visita ao cliente
+12-11-2016 16:06;12-11-2016 16:16;Negocio;Cary;Morrisville;3;Alimentação
+12-11-2016 19:05;12-11-2016 19:15;Negocio;Morrisville;Cary;48;Entregas
+12-11-2016 21:48;12-11-2016 21:56;Negocio;Cary;Cary;21;Entregas
+12-12-2016 13:22;12-12-2016 13:32;Negocio;Cary;Cary;31;Entregas
+12-12-2016 13:36;12-12-2016 13:51;Negocio;Cary;Apex;44;Alimentação
+12-12-2016 14:26;12-12-2016 14:39;Negocio;Apex;Cary;47;Visita ao cliente
+12-12-2016 17:51;12-12-2016 18:01;Negocio;Cary;Morrisville;3;Alimentação
+12-12-2016 20:48;12-12-2016 20:57;Negocio;Morrisville;Cary;3;Visita ao cliente
+12-13-2016 18:19;12-13-2016 18:29;Negocio;Cary;Cary;42;Entregas
+12-13-2016 20:20;12-13-2016 20:29;Negocio;Cary;Cary;41;Alimentação
+12-14-2016 16:52;12-14-2016 17:10;Negocio;Cary;Cary;34;
+12-14-2016 17:22;12-14-2016 17:34;Negocio;Cary;Cary;33;
+12-14-2016 17:50;12-14-2016 18:00;Negocio;Cary;Morrisville;3;Alimentação
+12-14-2016 20:24;12-14-2016 20:40;Negocio;Morrisville;Cary;31;Visita ao cliente
+12-15-2016 14:20;12-15-2016 14:54;Negocio;Cary;Morrisville;106;Reunião
+12-17-2016 15:38;12-17-2016 16:12;Negocio;Unknown Location;Unknown Location;48;Aeroporto/Viagem
+12-17-2016 17:19;12-17-2016 17:59;Negocio;Unknown Location;Unknown Location;53;Parada temporária
+12-18-2016 13:03;12-18-2016 13:41;Negocio;Unknown Location;Unknown Location;49;Entregas
+12-18-2016 16:38;12-18-2016 17:25;Negocio;Unknown Location;Unknown Location;102;Entregas
+12-18-2016 20:35;12-18-2016 21:04;Negocio;Unknown Location;Unknown Location;92;
+12-19-2016 9:08;12-19-2016 9:36;Negocio;Unknown Location;Islamabad;77;Entregas
+12-19-2016 10:15;12-19-2016 10:34;Negocio;Islamabad;Rawalpindi;59;Parada temporária
+12-19-2016 13:04;12-19-2016 13:08;Negocio;Rawalpindi;Unknown Location;7;Entregas
+12-19-2016 13:24;12-19-2016 13:35;Negocio;Unknown Location;Unknown Location;13;
+12-19-2016 14:07;12-19-2016 14:15;Negocio;Unknown Location;Unknown Location;25;
+12-19-2016 14:18;12-19-2016 14:32;Negocio;Unknown Location;Unknown Location;53;
+12-19-2016 14:37;12-19-2016 14:50;Negocio;Unknown Location;Unknown Location;54;
+12-19-2016 15:09;12-19-2016 15:38;Negocio;Unknown Location;Rawalpindi;102;Visita ao cliente
+12-19-2016 16:50;12-19-2016 17:09;Negocio;Rawalpindi;Islamabad;72;Visita ao cliente
+12-19-2016 19:05;12-19-2016 19:17;Negocio;Islamabad;Unknown Location;22;
+12-19-2016 19:55;12-19-2016 20:30;Negocio;Unknown Location;Unknown Location;11;Reunião
+12-20-2016 8:49;12-20-2016 9:24;Negocio;Unknown Location;Rawalpindi;12;
+12-20-2016 10:30;12-20-2016 10:48;Negocio;Rawalpindi;Rawalpindi;33;Entregas
+12-20-2016 11:30;12-20-2016 12:17;Negocio;Rawalpindi;Unknown Location;194;Reunião
+12-20-2016 13:14;12-20-2016 13:20;Negocio;Unknown Location;Unknown Location;17;Entregas
+12-20-2016 13:54;12-20-2016 14:17;Negocio;Unknown Location;Islamabad;57;Parada temporária
+12-20-2016 16:14;12-20-2016 16:24;Negocio;Islamabad;Islamabad;18;Entregas
+12-20-2016 16:56;12-20-2016 17:07;Negocio;Islamabad;Islamabad;14;Entregas
+12-20-2016 18:47;12-20-2016 19:21;Negocio;Islamabad;Unknown Location;103;Visita ao cliente
+12-21-2016 7:42;12-21-2016 8:10;Negocio;Unknown Location;Unknown Location;115;Reunião
+12-21-2016 10:14;12-21-2016 10:30;Negocio;Unknown Location;Islamabad;49;Entregas
+12-21-2016 11:35;12-21-2016 11:49;Negocio;Islamabad;Unknown Location;35;Alimentação
+12-21-2016 12:51;12-21-2016 13:33;Negocio;Unknown Location;Unknown Location;162;Reunião
+12-21-2016 15:38;12-21-2016 15:49;Negocio;Unknown Location;Unknown Location;2;Entregas
+12-21-2016 15:55;12-21-2016 16:05;Negocio;Unknown Location;Islamabad;21;Entregas
+12-21-2016 17:45;12-21-2016 17:54;Negocio;Islamabad;Islamabad;21;Reunião
+12-21-2016 17:59;12-21-2016 18:31;Negocio;Islamabad;Unknown Location;72;Visita ao cliente
+12-21-2016 19:49;12-21-2016 20:35;Negocio;Unknown Location;Rawalpindi;12;Reunião
+12-21-2016 20:56;12-21-2016 23:42;Negocio;Rawalpindi;Unknown Location;103;Reunião
+12-22-2016 15:40;12-22-2016 16:38;Negocio;Unknown Location;Unknown Location;323;Reunião
+12-22-2016 17:04;12-22-2016 17:20;Negocio;Unknown Location;Unknown Location;53;Visita ao cliente
+12-22-2016 17:27;12-22-2016 17:53;Negocio;Unknown Location;Unknown Location;116;Reunião
+12-22-2016 17:56;12-22-2016 18:29;Negocio;Unknown Location;Unknown Location;232;Reunião
+12-22-2016 18:31;12-22-2016 18:37;Negocio;Unknown Location;Unknown Location;32;Entregas
+12-22-2016 18:38;12-22-2016 18:47;Negocio;Unknown Location;Unknown Location;123;Parada temporária
+12-22-2016 19:04;12-22-2016 19:50;Negocio;Unknown Location;Lahore;14;Reunião
+12-22-2016 21:41;12-22-2016 21:53;Negocio;Lahore;Lahore;21;Alimentação
+12-22-2016 23:27;12-22-2016 23:32;Negocio;Lahore;Lahore;21;Visita ao cliente
+12-23-2016 9:21;12-23-2016 9:41;Negocio;Lahore;Lahore;3;Reunião
+12-23-2016 11:33;12-23-2016 11:58;Negocio;Lahore;Unknown Location;62;Reunião
+12-23-2016 14:15;12-23-2016 15:25;Negocio;Unknown Location;Unknown Location;96;Reunião
+12-23-2016 16:23;12-23-2016 16:34;Negocio;Unknown Location;Unknown Location;13;Entregas
+12-23-2016 17:34;12-23-2016 18:27;Negocio;Unknown Location;Lahore;71;Alimentação
+12-24-2016 7:43;12-24-2016 8:04;Negocio;Lahore;Unknown Location;63;Alimentação
+12-24-2016 9:19;12-24-2016 9:55;Negocio;Unknown Location;Lahore;107;Alimentação
+12-24-2016 10:34;12-24-2016 10:53;Negocio;Lahore;Lahore;53;Alimentação
+12-24-2016 12:51;12-24-2016 12:53;Negocio;Lahore;Lahore;16;Entregas
+12-24-2016 13:08;12-24-2016 13:29;Negocio;Lahore;Lahore;36;Entregas
+12-24-2016 17:12;12-24-2016 17:27;Negocio;Lahore;Lahore;17;Entregas
+12-24-2016 19:12;12-24-2016 19:27;Negocio;Lahore;Lahore;29;Alimentação
+12-24-2016 22:04;12-24-2016 22:09;Negocio;Lahore;Lahore;6;Entregas
+12-25-2016 0:10;12-25-2016 0:14;Negocio;Lahore;Lahore;6;Entregas
+12-25-2016 19:15;12-25-2016 19:26;Negocio;Lahore;Lahore;23;Alimentação
+12-25-2016 21:58;12-25-2016 22:04;Negocio;Lahore;Lahore;23;Alimentação
+12-26-2016 8:30;12-26-2016 8:41;Negocio;Lahore;Lahore;32;Alimentação
+12-26-2016 9:05;12-26-2016 9:19;Negocio;Lahore;Lahore;62;Visita ao cliente
+12-26-2016 10:15;12-26-2016 10:36;Negocio;Lahore;Lahore;77;Visita ao cliente
+12-26-2016 11:29;12-26-2016 11:42;Negocio;Lahore;Lahore;38;Visita ao cliente
+12-26-2016 13:09;12-26-2016 13:43;Negocio;Lahore;Unknown Location;79;Reunião
+12-27-2016 7:02;12-27-2016 7:14;Negocio;Karchi;Karchi;49;Parada temporária
+12-27-2016 8:37;12-27-2016 8:59;Negocio;Karchi;Karchi;5;Alimentação
+12-27-2016 12:53;12-27-2016 12:57;Negocio;Karchi;Karchi;6;Alimentação
+12-27-2016 14:49;12-27-2016 15:03;Negocio;Karchi;Unknown Location;31;Visita ao cliente
+12-27-2016 16:34;12-27-2016 16:58;Negocio;Unknown Location;Karchi;79;Reunião
+12-27-2016 19:19;12-27-2016 19:50;Negocio;Karchi;Karchi;55;Visita ao cliente
+12-28-2016 8:34;12-28-2016 9:06;Negocio;Karchi;Unknown Location;103;Alimentação
+12-28-2016 11:42;12-28-2016 12:12;Negocio;Unknown Location;Karchi;104;Entregas
+12-28-2016 13:53;12-28-2016 14:01;Negocio;Karchi;Karchi;2;Entregas
+12-28-2016 15:04;12-28-2016 15:39;Negocio;Karchi;Unknown Location;85;Alimentação
+12-28-2016 17:02;12-28-2016 17:16;Negocio;Unknown Location;Karchi;44;Entregas
+12-28-2016 18:33;12-28-2016 18:56;Negocio;Karchi;Karchi;38;Entregas
+12-28-2016 22:44;12-28-2016 23:18;Negocio;Karchi;Karchi;51;Entregas
+12-29-2016 0:49;12-29-2016 1:06;Negocio;Karchi;Karchi;38;Entregas
+12-29-2016 9:44;12-29-2016 10:07;Negocio;Karchi;Unknown Location;116;Alimentação
+12-29-2016 11:28;12-29-2016 12:00;Negocio;Unknown Location;Karchi;119;Alimentação
+12-29-2016 12:25;12-29-2016 12:33;Negocio;Karchi;Karchi;14;Entregas
+12-29-2016 13:17;12-29-2016 13:24;Negocio;Karchi;Karchi;11;Entregas
+12-29-2016 13:56;12-29-2016 14:11;Negocio;Karchi;Karchi;41;Aeroporto/Viagem
+12-29-2016 14:42;12-29-2016 14:58;Negocio;Karchi;Karchi;61;Entre escritórios
+12-29-2016 15:05;12-29-2016 15:16;Negocio;Karchi;Karchi;13;Entregas
+12-29-2016 18:59;12-29-2016 19:14;Negocio;Karchi;Unknown Location;3;Alimentação
+12-29-2016 19:50;12-29-2016 20:10;Negocio;Unknown Location;Karchi;41;Visita ao cliente
+12-29-2016 20:15;12-29-2016 20:45;Negocio;Karchi;Karchi;72;Reunião
+12-29-2016 20:53;12-29-2016 21:42;Negocio;Karchi;Unknown Location;64;
+12-29-2016 23:14;12-29-2016 23:47;Negocio;Unknown Location;Karchi;129;Reunião
+12-30-2016 10:15;12-30-2016 10:33;Negocio;Karchi;Karchi;28;Entregas
+12-30-2016 11:31;12-30-2016 11:56;Negocio;Karchi;Karchi;29;Entregas
+12-30-2016 15:41;12-30-2016 16:03;Negocio;Karchi;Karchi;46;Entregas
+12-30-2016 16:45;12-30-2016 17:08;Negocio;Karchi;Karchi;46;Reunião
+12-30-2016 23:06;12-30-2016 23:10;Negocio;Karchi;Karchi;8;Visita ao cliente
+12-31-2016 1:07;12-31-2016 1:14;Negocio;Karchi;Karchi;7;Reunião
+12-31-2016 13:24;12-31-2016 13:42;Negocio;Karchi;Unknown Location;39;Parada temporária
+12-31-2016 15:03;12-31-2016 15:38;Negocio;Unknown Location;Unknown Location;162;Reunião
+12-31-2016 21:32;12-31-2016 21:50;Negocio;Katunayake;Gampaha;64;Parada temporária
+12-31-2016 22:08;12-31-2016 23:51;Negocio;Gampaha;Ilukwatta;482;Parada temporária
